@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-06-23 17:20:13 (Hora Colombia)",
+  "checked_at": "2026-06-23 17:57:53 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -18,7 +18,7 @@
       "prob": 95,
       "buffett": 70,
       "mos": -84.8,
-      "rs_rank": 66,
+      "rs_rank": 87,
       "zones": {
         "entry": 172.18,
         "tp1": 180.11,
