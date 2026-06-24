@@ -1,39 +1,17 @@
 {
-  "checked_at": "2026-06-23 17:57:53 (Hora Colombia)",
+  "checked_at": "2026-06-24 12:11:57 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 733.58,
-    "spy_sma200": 685.48,
-    "spy_vs_sma200_pct": 7.02,
-    "drawdown_52w_pct": -3.17,
-    "realized_vol_20d": 17.2
+    "spy_price": 735.23,
+    "spy_sma200": 685.96,
+    "spy_vs_sma200_pct": 7.18,
+    "drawdown_52w_pct": -2.96,
+    "realized_vol_20d": 17.0
   },
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "ANET",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -84.8,
-      "rs_rank": 87,
-      "zones": {
-        "entry": 172.18,
-        "tp1": 180.11,
-        "tp2": 188.04,
-        "sl": 160.28
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "INCY",
@@ -57,6 +35,12 @@
       "ticker": "LLY",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -96,9 +80,9 @@
       ]
     },
     {
-      "ticker": "FCX",
+      "ticker": "CAT",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -117,12 +101,6 @@
       "ticker": "BBVA",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "EMR",
-      "failed": [
-        "Radar"
       ]
     }
   ]
