@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-06-24 17:24:18 (Hora Colombia)",
+  "checked_at": "2026-06-24 18:01:05 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,23 +10,111 @@
     "drawdown_52w_pct": -3.22,
     "realized_vol_20d": 17.0
   },
-  "confirmed": 0,
-  "signals": [],
-  "watchlist": [
-    {
-      "ticker": "INCY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "QCOM",
-      "failed": [
-        "Radar"
-      ]
-    },
+  "confirmed": 5,
+  "signals": [
     {
       "ticker": "TSM",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 95,
+      "mos": -90.5,
+      "rs_rank": 89,
+      "zones": {
+        "entry": 430.63,
+        "tp1": 449.84,
+        "tp2": 469.05,
+        "sl": 401.81
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "PSA",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -75.7,
+      "rs_rank": 81,
+      "zones": {
+        "entry": 319.21,
+        "tp1": 326.13,
+        "tp2": 333.05,
+        "sl": 308.83
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "HWM",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 55,
+      "mos": -86.7,
+      "rs_rank": 77,
+      "zones": {
+        "entry": 272.33,
+        "tp1": 281.65,
+        "tp2": 290.97,
+        "sl": 258.35
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "FMX",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 30,
+      "mos": -52.2,
+      "rs_rank": 86,
+      "zones": {
+        "entry": 126.22,
+        "tp1": 129.17,
+        "tp2": 132.12,
+        "sl": 121.8
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "composite": 56,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -74.9,
+      "rs_rank": 90,
+      "zones": {
+        "entry": 401.4,
+        "tp1": 420.93,
+        "tp2": 440.46,
+        "sl": 372.1
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "ALL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
@@ -68,6 +156,12 @@
       ]
     },
     {
+      "ticker": "TPR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "SPG",
       "failed": [
         "Analysis"
@@ -86,21 +180,21 @@
       ]
     },
     {
-      "ticker": "FCX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "CDNS",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "BBVA",
+      "ticker": "BRO",
       "failed": [
-        "Analysis"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EMR",
+      "failed": [
+        "Radar"
       ]
     }
   ]
