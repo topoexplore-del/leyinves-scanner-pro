@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-06-24 18:01:05 (Hora Colombia)",
+  "checked_at": "2026-06-25 12:20:37 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 733.24,
-    "spy_sma200": 685.95,
-    "spy_vs_sma200_pct": 6.89,
-    "drawdown_52w_pct": -3.22,
+    "spy_price": 732.27,
+    "spy_sma200": 686.4,
+    "spy_vs_sma200_pct": 6.68,
+    "drawdown_52w_pct": -3.35,
     "realized_vol_20d": 17.0
   },
   "confirmed": 5,
@@ -174,12 +174,6 @@
       ]
     },
     {
-      "ticker": "CAT",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "CDNS",
       "failed": [
         "Radar"
@@ -195,6 +189,12 @@
       "ticker": "EMR",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "NWG",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
