@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-06-26 17:20:34 (Hora Colombia)",
+  "checked_at": "2026-06-26 17:56:13 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,34 +10,67 @@
     "drawdown_52w_pct": -3.78,
     "realized_vol_20d": 16.9
   },
-  "confirmed": 1,
+  "confirmed": 3,
   "signals": [
     {
-      "ticker": "HWM",
-      "composite": 80,
+      "ticker": "TSM",
+      "composite": 85,
       "prob": 95,
-      "buffett": 55,
-      "mos": -86.8,
-      "rs_rank": 73,
+      "buffett": 95,
+      "mos": -90.5,
+      "rs_rank": 86,
       "zones": {
-        "entry": 273.36,
-        "tp1": 282.37,
-        "tp2": 291.38,
-        "sl": 259.85
+        "entry": 429.36,
+        "tp1": 448.13,
+        "tp2": 466.9,
+        "sl": 401.21
       },
       "periods": [
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "VRTX",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -64.6,
+      "rs_rank": 51,
+      "zones": {
+        "entry": 476.62,
+        "tp1": 488.47,
+        "tp2": 500.32,
+        "sl": 458.85
+      },
+      "periods": [
+        "1 Semana",
         "1 Mes",
-        "3 Meses"
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "composite": 56,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -75.5,
+      "rs_rank": 90,
+      "zones": {
+        "entry": 412.25,
+        "tp1": 431.18,
+        "tp2": 450.11,
+        "sl": 383.86
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
   "watchlist": [
-    {
-      "ticker": "ALL",
-      "failed": [
-        "Analysis"
-      ]
-    },
     {
       "ticker": "INCY",
       "failed": [
@@ -45,15 +78,15 @@
       ]
     },
     {
-      "ticker": "TSM",
+      "ticker": "PODD",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MU",
+      "ticker": "TRGP",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -81,25 +114,13 @@
       ]
     },
     {
-      "ticker": "LLY",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SPG",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "HUBB",
+      "ticker": "MU",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "GRMN",
+      "ticker": "HUBB",
       "failed": [
         "Radar"
       ]
@@ -111,13 +132,31 @@
       ]
     },
     {
+      "ticker": "OKE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "BRO",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "WMB",
+      "ticker": "NUE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EMR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NWG",
       "failed": [
         "Analysis"
       ]
