@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-01 17:24:07 (Hora Colombia)",
+  "checked_at": "2026-07-01 17:58:49 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,11 +10,31 @@
     "drawdown_52w_pct": -1.57,
     "realized_vol_20d": 18.3
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "FMX",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 30,
+      "mos": -53.0,
+      "rs_rank": 75,
+      "zones": {
+        "entry": 126.93,
+        "tp1": 130.17,
+        "tp2": 133.41,
+        "sl": 122.07
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
-      "ticker": "BWMX",
+      "ticker": "ALL",
       "failed": [
         "Analysis"
       ]
@@ -26,15 +46,21 @@
       ]
     },
     {
-      "ticker": "PODD",
+      "ticker": "TSM",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "TSM",
+      "ticker": "MU",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "PAC",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -56,9 +82,27 @@
       ]
     },
     {
+      "ticker": "LLY",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "HUBB",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "ITUB",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ITW",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -68,33 +112,15 @@
       ]
     },
     {
+      "ticker": "MTCH",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "GRMN",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "BRO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ABNB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "WMB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "DE",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
