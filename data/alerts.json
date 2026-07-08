@@ -1,113 +1,88 @@
 {
-  "checked_at": "2026-03-19 16:26 (Bogot\u00e1)",
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "VRT",
-      "composite": 81,
-      "prob": 95,
-      "zones": {
-        "entry": 134.45,
-        "tp1": 140.59,
-        "tp2": 144.69,
-        "sl": 133.77
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    }
-  ],
+  "checked_at": "2026-07-08 11:22:09 (Hora Colombia)",
+  "regime": {
+    "regime": "BULL",
+    "icon": "\ud83d\udfe2",
+    "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
+    "spy_price": 742.16,
+    "spy_sma200": 690.14,
+    "spy_vs_sma200_pct": 7.54,
+    "drawdown_52w_pct": -2.04,
+    "realized_vol_20d": 16.1
+  },
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
-      "ticker": "PDD",
+      "ticker": "CF",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "VIST",
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "TSM",
+      "ticker": "VRTX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "NVDA",
+      "ticker": "ANET",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "PBR",
+      "ticker": "OKE",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "EC",
+      "ticker": "MTCH",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "PPG",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "SPGI",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "0700.HK",
+      "ticker": "ALGN",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "PAC",
+      "ticker": "AMD",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "1810.HK",
+      "ticker": "VNO",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "YMM",
+      "ticker": "D",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ITX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BABA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "LI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "9988.HK",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ARM",
-      "failed": [
-        "Radar"
+        "Analysis"
       ]
     }
   ]
