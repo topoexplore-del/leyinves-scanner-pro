@@ -133,53 +133,85 @@ GROUPS = {
         "TLT","HYG","LQD"
     ],
     # ── US MARKET (Top ~350 S&P 500 stocks) ──
-    "🇺🇸 US Market": [
-        # Tech
-        "AAPL","MSFT","GOOGL","AMZN","META","TSLA","ORCL","CRM","ADBE","NOW",
-        "PANW","CRWD","SNOW","NET","DDOG","INTU","CDNS","SNPS","FTNT","ZS",
-        "WDAY","TEAM","HUBS","DOCU","VEEV","ANSS","CPAY","IT","KEYS","TYL",
-        "EPAM","PAYC","MANH","MPWR","NXPI","MCHP","SWKS","QRVO","ZBRA","TER",
-        "TRMB","GDDY","GEN","CTSH","WIT","ACN","IBM","CSCO","HPQ","HPE","DELL",
-        # Financials
-        "JPM","V","MA","GS","MS","BLK","SCHW","AXP","C","BAC","WFC","USB",
-        "PNC","TFC","COF","ICE","CME","SPGI","MCO","MSCI","FIS","FI","GPN",
-        "AIG","MET","PRU","AFL","ALL","TRV","CB","AON","MMC","AJG","CINF","BRO",
-        # Healthcare
-        "UNH","LLY","JNJ","ABBV","MRK","PFE","TMO","ISRG","VRTX","REGN",
-        "AMGN","GILD","MDT","SYK","BSX","EW","ZBH","BAX","BDX","HOLX","DXCM",
-        "IDXX","MTD","A","WAT","IQV","CRL","TECH","ALGN","PODD","INCY",
-        # Energy
-        "XOM","CVX","COP","SLB","EOG","MPC","VLO","PSX","HES",
-        "OXY","DVN","HAL","FANG","CTRA","APA","TRGP","WMB","OKE","KMI",
-        # Defense & Aerospace
-        "RTX","GD","BA","LHX","NOC","LMT","HII","TXT","HWM","TDG","AXON",
-        # Industrials
-        "HON","MMM","CMI","PH","ITW","TT","EMR","GE","ETN","ROK","AME",
-        "DOV","FTV","XYL","NDSN","ROP","IEX","GWW","FAST","WSO","AOS",
-        "IR","CARR","OTIS","JCI","GNRC","HUBB","RBC","SNA","WCC",
-        # Consumer Discretionary
-        "COST","WMT","HD","LOW","NKE","SBUX","MCD","TJX","ROST","DG","DLTR",
-        "BKNG","ABNB","MAR","HLT","RCL","CCL","LVS","WYNN","MGM",
-        "F","GM","APTV","BWA","LEA","RL","TPR","GRMN","POOL","BBY","TSCO",
-        "ORLY","AZO","AAP","KMX","LULU","DECK","ON","ULTA","EL","CPRI",
-        # Consumer Staples
-        "PG","KO","PEP","PM","MO","STZ","BF-B","MNST","KDP","CLX",
-        "CL","KMB","CHD","SJM","HSY","MKC","GIS","CAG","K","HRL","TSN","MDLZ",
-        # Real Estate
-        "AMT","PLD","CCI","EQIX","PSA","SPG","O","DLR","VICI","WELL",
-        "AVB","EQR","MAA","ESS","UDR","ARE","BXP","SLG","VNO",
-        # Utilities
-        "NEE","DUK","SO","D","AEP","SRE","EXC","XEL","WEC","ES",
-        "AEE","CMS","CNP","PNW","NI","EVRG","ATO","PEG",
-        # Materials
-        "LIN","APD","SHW","ECL","NUE","STLD","CF","MOS","ALB","FMC",
-        "IFF","CE","PPG","VMC","MLM","NEM","FCX","AA",
-        # Communication Services
-        "GOOG","DIS","NFLX","CMCSA","T","VZ","TMUS","CHTR","EA","TTWO",
-        "MTCH","ZG","PINS","SNAP","ROKU","SPOT","WBD","PARA","LYV",
-    ],
-}
+"🇺🇸 US Market": [
+    # Tech
+    "AAPL","MSFT","GOOGL","AMZN","META","TSLA","ORCL","CRM","ADBE","NOW",
+    "PANW","CRWD","SNOW","NET","DDOG","INTU","CDNS","SNPS","FTNT","ZS",
+    "WDAY","TEAM","HUBS","DOCU","VEEV","ANSS","CPAY","IT","KEYS","TYL",
+    "EPAM","PAYC","MANH","MPWR","NXPI","MCHP","SWKS","QRVO","ZBRA","TER",
+    "TRMB","GDDY","GEN","CTSH","WIT","ACN","IBM","CSCO","HPQ","HPE","DELL","Z","SDGR","TXN","SHOP",
+    "CIEN","TTMI","SITM","VICR","AEHR","NVTS","CLS","FN","RRX","VRSN","INTC","SMH","LITE","SNDK","RBRK","TTAN",
+    "MNDY","UMAC","FICO","APP","MDB",
+    "FOCL","LPRO","SSAC","NHP","GIW","DMII",
 
+    # Financials
+    "JPM","V","MA","GS","MS","BLK","SCHW","AXP","C","BAC","WFC","USB",
+    "PNC","TFC","COF","ICE","CME","SPGI","MCO","MSCI","FIS","FISV","GPN",
+    "AIG","MET","PRU","AFL","ALL","TRV","CB","AON","MMC","AJG","CINF","BRO","MBI","BRK.B","BRK.A",
+    "LPLA","BX","KKR","APO","CG","BK","TROW","WRB","THG","ITIC","ALLY","JEF",
+    "RSI","RGA","PLMK","PLMR","BPAC","BACC",
+
+    # Healthcare
+    "UNH","LLY","JNJ","ABBV","MRK","PFE","TMO","ISRG","VRTX","REGN",
+    "AMGN","GILD","MDT","SYK","BSX","EW","ZBH","BAX","BDX","HOLX","DXCM",
+    "IDXX","MTD","A","WAT","IQV","CRL","TECH","ALGN","PODD","INCY","WST","HCA","NVO","DVA","QNTM",
+    "CVKD","OCGN",
+    "ALMS","LQDA","EWTX","ROIV","LGND","TOI","XENE","NGNE","MRX","BVS","XOMA","RPRX","ASND","NUVL","GKOS","BCRX","ZVRA","MOH","LBRX",
+
+    # Energy
+    "XOM","CVX","COP","SLB","EOG","PXD","MPC","VLO","PSX","HES",
+    "OXY","DVN","HAL","FANG","CTRA","APA","TRGP","WMB","OKE","KMI",
+    "ADM","EMN","EPD","FNV","NNE","CRWV","CORZ","IREN","VST","APLD","BE","CIFR","FLNC","LEU","SHLS","OKLO",
+    "GEV",
+    "DWSN","DK","PBF","OII","DINO",
+
+    # Defense & Aerospace
+    "RTX","GD","BA","LHX","NOC","LMT","HII","TXT","HWM","TDG","AXON","HEI.A","KRMN","LOAR","KTOS",
+
+    # Industrials
+    "HON","MMM","CMI","PH","ITW","TT","EMR","GE","ETN","ROK","AME",
+    "DOV","FTV","XYL","NDSN","ROP","IEX","GWW","FAST","WSO","AOS",
+    "IR","CARR","OTIS","JCI","GNRC","HUBB","RBC","SNA","WCC","WM","PCAR","FDX","CNI","WCN","VLTO",
+    "ODFL","NSC","CP","CNI","SUNB","FERG","FIX","EXP","WY","HTZ","LPX","GEV","DY","EME","STRL","MTZ","NVT",
+    "MBX","CLMT","UFI","CRAN",
+
+    # Consumer Discretionary
+    "COST","WMT","HD","LOW","NKE","SBUX","MCD","TJX","ROST","DG","DLTR",
+    "BKNG","ABNB","MAR","HLT","RCL","CCL","LVS","WYNN","MGM",
+    "F","GM","APTV","BWA","LEA","RL","TPR","GRMN","POOL","BBY","TSCO",
+    "ORLY","AZO","AAP","KMX","LULU","DECK","ON","ULTA","EL","CPRI","CMCSA",
+    "YUM","DPZ","HGTY","SMG","UBER","QSR","LLYVK","LEN","LEN.B","FWONK","LILA","LILAK","BATRK","DASH",
+    "SGHC","BZH",
+
+    # Consumer Staples
+    "PG","KO","PEP","PM","MO","STZ","BF.B","MNST","KDP","CLX",
+    "CL","KMB","CHD","SJM","HSY","MKC","GIS","CAG","K","HRL","TSN","MDLZ","KHC","BUD","ONON",
+    "BF.A","BF.B","SYY","KHC","KR",
+
+    # Real Estate
+    "AMT","PLD","CCI","EQIX","PSA","SPG","O","DLR","VICI","WELL",
+    "AVB","EQR","MAA","ESS","UDR","ARE","BXP","SLG","VNO",
+    "NVR","ROL","LAMR","HXL","HHH",
+    "BNL","FR",
+
+    # Utilities
+    "NEE","DUK","SO","D","AEP","SRE","EXC","XEL","WEC","ES",
+    "AEE","CMS","CNP","PNW","NI","EVRG","ATO","PEG","DHR",
+
+    # Materials
+    "LIN","APD","SHW","ECL","NUE","STLD","CF","MOS","ALB","FMC",
+    "IFF","CE","PPG","VMC","MLM","NEM","FCX","AA","EMN","EXP","WY","KNF","AEM",
+
+    # Communication Services
+    "GOOG","DIS","NFLX","CMCSA","T","VZ","TMUS","CHTR","EA","TTWO",
+    "MTCH","ZG","PINS","SNAP","ROKU","SPOT","WBD","PARA","LYV","IACI","SGS","SONY","SEG",
+    "SIRI","LLYVA","NYT","FOX",
+    "ANDG",
+
+    # Education
+    "LINC","LAUR","DAO","UTI",
+],
+    
 # ── TECHNICAL MODEL (faithful Pine translation) ─────────────────
 def compute_score(df):
     """Compute technical score 0-100. Anti-repaint: uses closed candles only."""
