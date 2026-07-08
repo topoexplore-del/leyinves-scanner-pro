@@ -210,7 +210,8 @@ GROUPS = {
 
     # Education
     "LINC","LAUR","DAO","UTI",
-],
+    ],
+}
     
 # ── TECHNICAL MODEL (faithful Pine translation) ─────────────────
 def compute_score(df):
