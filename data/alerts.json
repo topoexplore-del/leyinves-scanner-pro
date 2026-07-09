@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-08 17:10:47 (Hora Colombia)",
+  "checked_at": "2026-07-08 19:02:44 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -51,6 +51,12 @@
     },
     {
       "ticker": "PPG",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "SAN",
       "failed": [
         "Analysis"
       ]
