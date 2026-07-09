@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-09 17:25:45 (Hora Colombia)",
+  "checked_at": "2026-07-09 18:02:38 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,15 +10,31 @@
     "drawdown_52w_pct": -0.78,
     "realized_vol_20d": 16.0
   },
-  "confirmed": 0,
-  "signals": [],
-  "watchlist": [
+  "confirmed": 1,
+  "signals": [
     {
       "ticker": "CF",
-      "failed": [
-        "Radar"
+      "composite": 100,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -20.3,
+      "rs_rank": 13,
+      "zones": {
+        "entry": 115.76,
+        "tp1": 119.95,
+        "tp2": 124.14,
+        "sl": 109.48
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
       ]
-    },
+    }
+  ],
+  "watchlist": [
     {
       "ticker": "INCY",
       "failed": [
@@ -38,21 +54,9 @@
       ]
     },
     {
-      "ticker": "OKE",
+      "ticker": "GRMN",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "MTCH",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "PPG",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -62,25 +66,25 @@
       ]
     },
     {
-      "ticker": "SPGI",
+      "ticker": "SQM",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ALGN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VNO",
+      "ticker": "JPM",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "D",
+      "ticker": "BCS",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ESS",
       "failed": [
         "Analysis"
       ]
