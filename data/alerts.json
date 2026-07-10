@@ -1,42 +1,64 @@
 {
-  "checked_at": "2026-07-09 18:02:38 (Hora Colombia)",
+  "checked_at": "2026-07-10 10:39:42 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 751.71,
-    "spy_sma200": 690.63,
-    "spy_vs_sma200_pct": 8.84,
-    "drawdown_52w_pct": -0.78,
-    "realized_vol_20d": 16.0
+    "spy_price": 752.66,
+    "spy_sma200": 691.08,
+    "spy_vs_sma200_pct": 8.91,
+    "drawdown_52w_pct": -0.65,
+    "realized_vol_20d": 14.7
   },
   "confirmed": 1,
   "signals": [
     {
-      "ticker": "CF",
-      "composite": 100,
+      "ticker": "SEIC",
+      "composite": 84,
       "prob": 95,
-      "buffett": 85,
-      "mos": -20.3,
-      "rs_rank": 13,
+      "buffett": 90,
+      "mos": -45.3,
+      "rs_rank": 78,
       "zones": {
-        "entry": 115.76,
-        "tp1": 119.95,
-        "tp2": 124.14,
-        "sl": 109.48
+        "entry": 94.02,
+        "tp1": 96.38,
+        "tp2": 98.74,
+        "sl": 90.48
       },
       "periods": [
         "1 Semana",
-        "1 Mes",
         "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "6 Meses"
       ]
     }
   ],
   "watchlist": [
     {
+      "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "META",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VCTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TSM",
       "failed": [
         "Radar"
       ]
@@ -48,25 +70,43 @@
       ]
     },
     {
+      "ticker": "MU",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ANET",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "GRMN",
+      "ticker": "RSI",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SAN",
+      "ticker": "ITUB",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "SQM",
+      "ticker": "IBM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "AXP",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CNXN",
       "failed": [
         "Radar"
       ]
@@ -78,15 +118,9 @@
       ]
     },
     {
-      "ticker": "BCS",
+      "ticker": "ARM",
       "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ESS",
-      "failed": [
-        "Analysis"
+        "Radar"
       ]
     }
   ]
