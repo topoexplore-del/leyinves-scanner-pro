@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-10 17:07:30 (Hora Colombia)",
+  "checked_at": "2026-07-10 17:44:59 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,7 +10,7 @@
     "drawdown_52w_pct": -0.35,
     "realized_vol_20d": 14.8
   },
-  "confirmed": 1,
+  "confirmed": 2,
   "signals": [
     {
       "ticker": "SEIC",
@@ -29,6 +29,24 @@
         "1 Semana",
         "3 Meses",
         "6 Meses"
+      ]
+    },
+    {
+      "ticker": "EXPD",
+      "composite": 79,
+      "prob": 95,
+      "buffett": 45,
+      "mos": -71.2,
+      "rs_rank": 71,
+      "zones": {
+        "entry": 169.55,
+        "tp1": 173.13,
+        "tp2": 176.71,
+        "sl": 164.18
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses"
       ]
     }
   ],
