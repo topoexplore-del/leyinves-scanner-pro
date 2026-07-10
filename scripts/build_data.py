@@ -141,43 +141,51 @@ GROUPS = {
         "WDAY","TEAM","HUBS","DOCU","VEEV","ANSS","CPAY","IT","KEYS","TYL",
         "EPAM","PAYC","MANH","MPWR","NXPI","MCHP","SWKS","QRVO","ZBRA","TER",
         "TRMB","GDDY","GEN","CTSH","WIT","ACN","IBM","CSCO","HPQ","HPE","DELL",
+        "IMOS","FFIV","RDWR","CNXN","SCSC","NTCT","TRAX","IPCX",
         # Financials
         "JPM","V","MA","GS","MS","BLK","SCHW","AXP","C","BAC","WFC","USB",
         "PNC","TFC","COF","ICE","CME","SPGI","MCO","MSCI","FIS","FI","GPN",
         "AIG","MET","PRU","AFL","ALL","TRV","CB","AON","MMC","AJG","CINF","BRO",
+        "TIGO","SMFG","NMR","NTRS","STT","VOYA","OPHC","SLF","PRI","SEIC","VIRT",
+       "MFG","MUFG","HSBC","RY","BAP","UBS", "SHG","KB","BPOP","FHI","GCMG","VCTR","IFS","PSO","QNST","RSI",
         # Healthcare
         "UNH","LLY","JNJ","ABBV","MRK","PFE","TMO","ISRG","VRTX","REGN",
         "AMGN","GILD","MDT","SYK","BSX","EW","ZBH","BAX","BDX","HOLX","DXCM",
         "IDXX","MTD","A","WAT","IQV","CRL","TECH","ALGN","PODD","INCY",
+        "RLAY","RVMD","DNTH","ACRS","TXG","SEPN","BLZE","TENX","FBRX","URGN",
+        "PTGX","CRNX","MNPR","MIRM","IMVT","JAZZ","PSNL","DNLI","NKTX","PHVS","NRIX","PTCT","ICCC","SRRK","TGTX",
+        "ABUS","NBIX","CORT","PRVA","ELV","VCEL","PNTG","WDFC","CHE",
         # Energy
         "XOM","CVX","COP","SLB","EOG","MPC","VLO","PSX","HES",
-        "OXY","DVN","HAL","FANG","CTRA","APA","TRGP","WMB","OKE","KMI",
+        "OXY","DVN","HAL","FANG","CTRA","APA","TRGP","WMB","OKE","KMI","POWW",
         # Defense & Aerospace
         "RTX","GD","BA","LHX","NOC","LMT","HII","TXT","HWM","TDG","AXON",
         # Industrials
         "HON","MMM","CMI","PH","ITW","TT","EMR","GE","ETN","ROK","AME",
         "DOV","FTV","XYL","NDSN","ROP","IEX","GWW","FAST","WSO","AOS",
         "IR","CARR","OTIS","JCI","GNRC","HUBB","RBC","SNA","WCC",
+        "PENG","CVLG","EXPD","CSX","GTLS","BSET","WKC","SAH","PAG","UNP",
         # Consumer Discretionary
         "COST","WMT","HD","LOW","NKE","SBUX","MCD","TJX","ROST","DG","DLTR",
         "BKNG","ABNB","MAR","HLT","RCL","CCL","LVS","WYNN","MGM",
         "F","GM","APTV","BWA","LEA","RL","TPR","GRMN","POOL","BBY","TSCO",
         "ORLY","AZO","AAP","KMX","LULU","DECK","ON","ULTA","EL","CPRI",
+        "ARMK","JOYY","LTH","EAT","CUE","CAKE","CROX",
         # Consumer Staples
         "PG","KO","PEP","PM","MO","STZ","BF-B","MNST","KDP","CLX",
         "CL","KMB","CHD","SJM","HSY","MKC","GIS","CAG","K","HRL","TSN","MDLZ",
         # Real Estate
         "AMT","PLD","CCI","EQIX","PSA","SPG","O","DLR","VICI","WELL",
-        "AVB","EQR","MAA","ESS","UDR","ARE","BXP","SLG","VNO",
+        "AVB","EQR","MAA","ESS","UDR","ARE","BXP","SLG","VNO","IIPR",
         # Utilities
         "NEE","DUK","SO","D","AEP","SRE","EXC","XEL","WEC","ES",
-        "AEE","CMS","CNP","PNW","NI","EVRG","ATO","PEG",
+        "AEE","CMS","CNP","PNW","NI","EVRG","ATO","PEG","BNL","FR",
         # Materials
         "LIN","APD","SHW","ECL","NUE","STLD","CF","MOS","ALB","FMC",
-        "IFF","CE","PPG","VMC","MLM","NEM","FCX","AA",
+        "IFF","CE","PPG","VMC","MLM","NEM","FCX","AA","CPBI",
         # Communication Services
         "GOOG","DIS","NFLX","CMCSA","T","VZ","TMUS","CHTR","EA","TTWO",
-        "MTCH","ZG","PINS","SNAP","ROKU","SPOT","WBD","PARA","LYV",
+        "MTCH","ZG","PINS","SNAP","ROKU","SPOT","WBD","PARA","LYV","DHX","JOYY","ANDG",
     ],
 }
 
@@ -187,11 +195,11 @@ def compute_score(df):
     c, h, v = df["Close"], df["High"], df["Volume"]
     ema50 = c.ewm(span=50, adjust=False).mean()
     ema200 = c.ewm(span=200, adjust=False).mean()
-    # RSI
+    # 
     delta = c.diff()
     gain = delta.clip(lower=0).ewm(alpha=1/14, min_periods=14, adjust=False).mean()
     loss = (-delta).clip(lower=0).ewm(alpha=1/14, min_periods=14, adjust=False).mean()
-    rsi = 100 - 100 / (1 + gain / loss.replace(0, np.nan))
+     = 100 - 100 / (1 + gain / loss.replace(0, np.nan))
     # ADX
     tr = pd.concat([h - df["Low"], (h - c.shift()).abs(), (df["Low"] - c.shift()).abs()], axis=1).max(axis=1)
     atr = tr.ewm(alpha=1/14, min_periods=14, adjust=False).mean()
@@ -217,7 +225,7 @@ def compute_score(df):
     h20 = h.rolling(20).max()
     # Score components
     s_trend = ((ema50 > ema200) & (c > ema200)).astype(int) * 30
-    s_mom = ((rsi > 50) & (rsi < 70)).astype(int) * 15
+    s_mom = (( > 50) & ( < 70)).astype(int) * 15
     s_adx = ((adx > 18) & (adx < 35)).astype(int) * 15
     s_comp = (bb_w < bb_w_low * 1.2).astype(int) * 15
     s_accum = ((obv > obv_sma) & (rel_vol > 1)).astype(int) * 15
