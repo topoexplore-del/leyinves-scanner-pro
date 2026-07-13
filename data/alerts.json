@@ -1,58 +1,26 @@
 {
-  "checked_at": "2026-07-13 14:26:45 (Hora Colombia)",
+  "checked_at": "2026-07-13 15:35:32 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 748.76,
+    "spy_price": 749.08,
     "spy_sma200": 691.55,
-    "spy_vs_sma200_pct": 8.27,
-    "drawdown_52w_pct": -1.17,
+    "spy_vs_sma200_pct": 8.32,
+    "drawdown_52w_pct": -1.13,
     "realized_vol_20d": 14.1
   },
-  "confirmed": 2,
-  "signals": [
-    {
-      "ticker": "SEIC",
-      "composite": 84,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -45.3,
-      "rs_rank": 78,
-      "zones": {
-        "entry": 94.02,
-        "tp1": 96.38,
-        "tp2": 98.74,
-        "sl": 90.48
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "EXPD",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 45,
-      "mos": -71.2,
-      "rs_rank": 71,
-      "zones": {
-        "entry": 169.55,
-        "tp1": 173.13,
-        "tp2": 176.71,
-        "sl": 164.18
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NEM",
       "failed": [
         "Radar"
       ]
@@ -82,13 +50,7 @@
       ]
     },
     {
-      "ticker": "TSM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VRTX",
+      "ticker": "WDFC",
       "failed": [
         "Radar"
       ]
@@ -100,43 +62,43 @@
       ]
     },
     {
+      "ticker": "CB",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "A",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ANET",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "RSI",
+      "ticker": "LRCX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ITUB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "IBM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "AXP",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "CNXN",
+      "ticker": "AMAT",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "JPM",
+      "ticker": "TER",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "KO",
       "failed": [
         "Analysis"
       ]
