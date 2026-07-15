@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-15 17:08:04 (Hora Colombia)",
+  "checked_at": "2026-07-15 18:03:00 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,7 +10,7 @@
     "drawdown_52w_pct": -0.37,
     "realized_vol_20d": 12.6
   },
-  "confirmed": 1,
+  "confirmed": 2,
   "signals": [
     {
       "ticker": "SEIC",
@@ -18,7 +18,7 @@
       "prob": 95,
       "buffett": 90,
       "mos": -45.4,
-      "rs_rank": 79,
+      "rs_rank": 78,
       "zones": {
         "entry": 94.22,
         "tp1": 96.46,
@@ -29,6 +29,24 @@
         "1 Mes",
         "3 Meses",
         "6 Meses"
+      ]
+    },
+    {
+      "ticker": "HQY",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -59.5,
+      "rs_rank": 75,
+      "zones": {
+        "entry": 93.63,
+        "tp1": 96.53,
+        "tp2": 99.43,
+        "sl": 89.28
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
       ]
     }
   ],
@@ -76,6 +94,18 @@
       ]
     },
     {
+      "ticker": "MU",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TROW",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "A",
       "failed": [
         "Radar"
@@ -94,31 +124,19 @@
       ]
     },
     {
+      "ticker": "TXN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "APH",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "SEZL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "NBIX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "OTTR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "KRT",
       "failed": [
         "Radar"
       ]
