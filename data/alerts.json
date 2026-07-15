@@ -1,36 +1,34 @@
 {
-  "checked_at": "2026-07-15 14:16:51 (Hora Colombia)",
+  "checked_at": "2026-07-15 16:34:59 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 753.75,
+    "spy_price": 754.81,
     "spy_sma200": 692.54,
-    "spy_vs_sma200_pct": 8.84,
-    "drawdown_52w_pct": -0.51,
-    "realized_vol_20d": 12.5
+    "spy_vs_sma200_pct": 8.99,
+    "drawdown_52w_pct": -0.37,
+    "realized_vol_20d": 12.6
   },
   "confirmed": 1,
   "signals": [
     {
-      "ticker": "WDFC",
-      "composite": 85,
+      "ticker": "SEIC",
+      "composite": 84,
       "prob": 95,
-      "buffett": 85,
-      "mos": -77.9,
-      "rs_rank": 78,
+      "buffett": 90,
+      "mos": -45.4,
+      "rs_rank": 79,
       "zones": {
-        "entry": 248.11,
-        "tp1": 259.18,
-        "tp2": 270.25,
-        "sl": 231.51
+        "entry": 94.22,
+        "tp1": 96.46,
+        "tp2": 98.7,
+        "sl": 90.86
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "6 Meses"
       ]
     }
   ],
@@ -66,9 +64,15 @@
       ]
     },
     {
-      "ticker": "V",
+      "ticker": "WDFC",
       "failed": [
-        "Analysis"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -90,39 +94,33 @@
       ]
     },
     {
+      "ticker": "SEZL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "NBIX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "INTU",
+      "ticker": "OTTR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ABNB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "CNXN",
+      "ticker": "KRT",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "SPGI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HPQ",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
