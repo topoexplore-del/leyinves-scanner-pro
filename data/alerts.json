@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-07-14 17:51:34 (Hora Colombia)",
+  "checked_at": "2026-07-15 11:25:58 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 751.83,
-    "spy_sma200": 692.03,
-    "spy_vs_sma200_pct": 8.64,
-    "drawdown_52w_pct": -0.76,
-    "realized_vol_20d": 14.0
+    "spy_price": 750.82,
+    "spy_sma200": 692.52,
+    "spy_vs_sma200_pct": 8.42,
+    "drawdown_52w_pct": -0.9,
+    "realized_vol_20d": 12.5
   },
-  "confirmed": 2,
+  "confirmed": 1,
   "signals": [
     {
       "ticker": "WDFC",
@@ -24,27 +24,6 @@
         "tp1": 259.18,
         "tp2": 270.25,
         "sl": 231.51
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -85.4,
-      "rs_rank": 82,
-      "zones": {
-        "entry": 178.23,
-        "tp1": 187.96,
-        "tp2": 197.69,
-        "sl": 163.63
       },
       "periods": [
         "1 Semana",
@@ -81,6 +60,12 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "V",
       "failed": [
         "Analysis"
@@ -88,6 +73,12 @@
     },
     {
       "ticker": "A",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ANET",
       "failed": [
         "Radar"
       ]
@@ -130,12 +121,6 @@
     },
     {
       "ticker": "HPQ",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "WFC",
       "failed": [
         "Analysis"
       ]
