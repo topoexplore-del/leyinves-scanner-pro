@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-16 17:09:00 (Hora Colombia)",
+  "checked_at": "2026-07-16 18:03:43 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,43 +10,64 @@
     "drawdown_52w_pct": -0.91,
     "realized_vol_20d": 12.6
   },
-  "confirmed": 2,
+  "confirmed": 3,
   "signals": [
     {
       "ticker": "SEIC",
       "composite": 84,
       "prob": 95,
       "buffett": 90,
-      "mos": -45.4,
-      "rs_rank": 78,
+      "mos": -47.2,
+      "rs_rank": 82,
       "zones": {
-        "entry": 94.22,
-        "tp1": 96.46,
-        "tp2": 98.7,
-        "sl": 90.86
+        "entry": 97.47,
+        "tp1": 99.81,
+        "tp2": 102.15,
+        "sl": 93.96
       },
       "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
     },
     {
-      "ticker": "HQY",
+      "ticker": "OTTR",
+      "composite": 79,
+      "prob": 95,
+      "buffett": 75,
+      "mos": -8.5,
+      "rs_rank": 40,
+      "zones": {
+        "entry": 89.59,
+        "tp1": 91.57,
+        "tp2": 93.55,
+        "sl": 86.62
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "CNXN",
       "composite": 66,
       "prob": 95,
-      "buffett": 70,
-      "mos": -59.5,
-      "rs_rank": 75,
+      "buffett": 30,
+      "mos": -30.1,
+      "rs_rank": 76,
       "zones": {
-        "entry": 93.63,
-        "tp1": 96.53,
-        "tp2": 99.43,
-        "sl": 89.28
+        "entry": 75.41,
+        "tp1": 77.59,
+        "tp2": 79.77,
+        "sl": 72.14
       },
       "periods": [
         "1 Mes",
-        "3 Meses"
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
@@ -59,6 +80,12 @@
     },
     {
       "ticker": "EOG",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "META",
       "failed": [
         "Radar"
       ]
@@ -82,19 +109,31 @@
       ]
     },
     {
+      "ticker": "GOOGL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VRTX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "WDFC",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MU",
+      "ticker": "VIPS",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MU",
+      "ticker": "GOOG",
       "failed": [
         "Radar"
       ]
@@ -112,31 +151,13 @@
       ]
     },
     {
-      "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TXN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "APH",
+      "ticker": "RSI",
       "failed": [
         "Radar"
       ]
     },
     {
       "ticker": "SEZL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WTS",
       "failed": [
         "Radar"
       ]
