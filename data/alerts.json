@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-17 17:00:12 (Hora Colombia)",
+  "checked_at": "2026-07-17 17:45:20 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,64 +10,24 @@
     "drawdown_52w_pct": -1.89,
     "realized_vol_20d": 12.2
   },
-  "confirmed": 3,
+  "confirmed": 1,
   "signals": [
     {
-      "ticker": "SEIC",
-      "composite": 84,
+      "ticker": "IEX",
+      "composite": 66,
       "prob": 95,
-      "buffett": 90,
-      "mos": -47.2,
-      "rs_rank": 82,
+      "buffett": 60,
+      "mos": -60.3,
+      "rs_rank": 72,
       "zones": {
-        "entry": 97.47,
-        "tp1": 99.81,
-        "tp2": 102.15,
-        "sl": 93.96
+        "entry": 227.51,
+        "tp1": 232.35,
+        "tp2": 237.19,
+        "sl": 220.25
       },
       "periods": [
         "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "OTTR",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 75,
-      "mos": -8.5,
-      "rs_rank": 40,
-      "zones": {
-        "entry": 89.59,
-        "tp1": 91.57,
-        "tp2": 93.55,
-        "sl": 86.62
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "CNXN",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 30,
-      "mos": -30.1,
-      "rs_rank": 76,
-      "zones": {
-        "entry": 75.41,
-        "tp1": 77.59,
-        "tp2": 79.77,
-        "sl": 72.14
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
+        "3 Meses"
       ]
     }
   ],
@@ -79,13 +39,13 @@
       ]
     },
     {
-      "ticker": "EOG",
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "META",
+      "ticker": "EOG",
       "failed": [
         "Radar"
       ]
@@ -97,13 +57,13 @@
       ]
     },
     {
-      "ticker": "INCY",
+      "ticker": "CBOE",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "GOOGL",
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
@@ -127,9 +87,15 @@
       ]
     },
     {
-      "ticker": "GOOG",
+      "ticker": "AFL",
       "failed": [
-        "Radar"
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CB",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -152,12 +118,6 @@
     },
     {
       "ticker": "SEZL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WTS",
       "failed": [
         "Radar"
       ]
