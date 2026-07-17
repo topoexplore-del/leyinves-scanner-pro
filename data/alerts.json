@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-07-16 18:03:43 (Hora Colombia)",
+  "checked_at": "2026-07-17 11:21:21 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 750.72,
-    "spy_sma200": 693.01,
-    "spy_vs_sma200_pct": 8.33,
-    "drawdown_52w_pct": -0.91,
-    "realized_vol_20d": 12.6
+    "spy_price": 746.45,
+    "spy_sma200": 693.46,
+    "spy_vs_sma200_pct": 7.64,
+    "drawdown_52w_pct": -1.47,
+    "realized_vol_20d": 11.9
   },
   "confirmed": 3,
   "signals": [
@@ -103,12 +103,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "GOOGL",
       "failed": [
         "Radar"
@@ -158,6 +152,12 @@
     },
     {
       "ticker": "SEZL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "WTS",
       "failed": [
         "Radar"
       ]
