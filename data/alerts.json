@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-20 17:06:13 (Hora Colombia)",
+  "checked_at": "2026-07-20 17:56:54 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,34 +10,50 @@
     "drawdown_52w_pct": -2.05,
     "realized_vol_20d": 11.7
   },
-  "confirmed": 1,
+  "confirmed": 2,
   "signals": [
     {
-      "ticker": "IEX",
-      "composite": 66,
+      "ticker": "CF",
+      "composite": 100,
       "prob": 95,
-      "buffett": 60,
-      "mos": -60.3,
-      "rs_rank": 72,
+      "buffett": 85,
+      "mos": -23.2,
+      "rs_rank": 19,
       "zones": {
-        "entry": 227.51,
-        "tp1": 232.35,
-        "tp2": 237.19,
-        "sl": 220.25
+        "entry": 120.16,
+        "tp1": 124.35,
+        "tp2": 128.54,
+        "sl": 113.88
       },
       "periods": [
         "1 Semana",
-        "3 Meses"
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "INCY",
+      "composite": 90,
+      "prob": 95,
+      "buffett": 90,
+      "mos": -42.9,
+      "rs_rank": 83,
+      "zones": {
+        "entry": 116.19,
+        "tp1": 119.74,
+        "tp2": 123.29,
+        "sl": 110.86
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
   "watchlist": [
-    {
-      "ticker": "CF",
-      "failed": [
-        "Radar"
-      ]
-    },
     {
       "ticker": "APA",
       "failed": [
@@ -63,9 +79,9 @@
       ]
     },
     {
-      "ticker": "INCY",
+      "ticker": "KTB",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -75,15 +91,9 @@
       ]
     },
     {
-      "ticker": "WDFC",
+      "ticker": "SEIC",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VIPS",
-      "failed": [
-        "Radar"
+        "Earnings en 2d (blackout)"
       ]
     },
     {
@@ -120,6 +130,18 @@
       "ticker": "SEZL",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "WTS",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PLBC",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
