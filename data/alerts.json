@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-07-21 17:54:00 (Hora Colombia)",
+  "checked_at": "2026-07-22 11:24:48 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 748.28,
-    "spy_sma200": 694.27,
-    "spy_vs_sma200_pct": 7.78,
-    "drawdown_52w_pct": -1.23,
-    "realized_vol_20d": 12.0
+    "spy_price": 749.86,
+    "spy_sma200": 694.7,
+    "spy_vs_sma200_pct": 7.94,
+    "drawdown_52w_pct": -1.02,
+    "realized_vol_20d": 10.6
   },
-  "confirmed": 3,
+  "confirmed": 4,
   "signals": [
     {
       "ticker": "CF",
@@ -49,6 +49,25 @@
       "periods": [
         "1 Mes",
         "3 Meses"
+      ]
+    },
+    {
+      "ticker": "RELY",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 40,
+      "mos": -71.4,
+      "rs_rank": 75,
+      "zones": {
+        "entry": 23.56,
+        "tp1": 24.46,
+        "tp2": 25.36,
+        "sl": 22.21
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
       ]
     },
     {
@@ -150,13 +169,13 @@
       ]
     },
     {
-      "ticker": "RSI",
+      "ticker": "ANET",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SEZL",
+      "ticker": "RSI",
       "failed": [
         "Radar"
       ]
