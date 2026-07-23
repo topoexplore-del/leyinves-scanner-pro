@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-23 17:11:19 (Hora Colombia)",
+  "checked_at": "2026-07-23 17:55:35 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,32 +13,12 @@
   "confirmed": 5,
   "signals": [
     {
-      "ticker": "INCY",
-      "composite": 90,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -43.0,
-      "rs_rank": 84,
-      "zones": {
-        "entry": 116.31,
-        "tp1": 119.91,
-        "tp2": 123.51,
-        "sl": 110.91
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
       "ticker": "NVDA",
       "composite": 85,
       "prob": 95,
       "buffett": 85,
       "mos": -83.8,
-      "rs_rank": 48,
+      "rs_rank": 55,
       "zones": {
         "entry": 209.85,
         "tp1": 217.2,
@@ -53,62 +33,78 @@
       ]
     },
     {
-      "ticker": "NBIX",
-      "composite": 79,
+      "ticker": "SEIC",
+      "composite": 84,
       "prob": 95,
-      "buffett": 85,
-      "mos": -60.7,
-      "rs_rank": 93,
+      "buffett": 90,
+      "mos": -47.5,
+      "rs_rank": 82,
       "zones": {
-        "entry": 177.63,
-        "tp1": 182.35,
-        "tp2": 187.07,
-        "sl": 170.55
+        "entry": 98.08,
+        "tp1": 100.31,
+        "tp2": 102.54,
+        "sl": 94.73
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
     },
     {
-      "ticker": "EXPD",
+      "ticker": "NBIX",
       "composite": 79,
       "prob": 95,
-      "buffett": 45,
-      "mos": -72.5,
-      "rs_rank": 83,
+      "buffett": 85,
+      "mos": -59.3,
+      "rs_rank": 92,
       "zones": {
-        "entry": 177.45,
-        "tp1": 181.21,
-        "tp2": 184.97,
-        "sl": 171.81
+        "entry": 171.18,
+        "tp1": 176.22,
+        "tp2": 181.26,
+        "sl": 163.62
       },
       "periods": [
         "1 Mes",
-        "3 Meses"
+        "3 Meses",
+        "6 Meses"
       ]
     },
     {
-      "ticker": "AIR",
-      "composite": 66,
+      "ticker": "UGI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 30,
+      "mos": 9.1,
+      "rs_rank": 38,
+      "zones": {
+        "entry": 36.61,
+        "tp1": 37.33,
+        "tp2": 38.05,
+        "sl": 35.53
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "HXL",
+      "composite": 56,
       "prob": 95,
       "buffett": 25,
-      "mos": -53.7,
-      "rs_rank": 77,
+      "mos": -77.6,
+      "rs_rank": 85,
       "zones": {
-        "entry": 139.69,
-        "tp1": 145.39,
-        "tp2": 151.09,
-        "sl": 131.14
+        "entry": 105.66,
+        "tp1": 108.85,
+        "tp2": 112.04,
+        "sl": 100.88
       },
       "periods": [
         "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "3 Meses"
       ]
     }
   ],
@@ -120,9 +116,27 @@
       ]
     },
     {
+      "ticker": "VIST",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BVN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "APA",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "NEWT",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -138,7 +152,25 @@
       ]
     },
     {
+      "ticker": "CBOE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "VRTX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "WDFC",
       "failed": [
         "Radar"
       ]
@@ -150,9 +182,9 @@
       ]
     },
     {
-      "ticker": "SEIC",
+      "ticker": "SCCO",
       "failed": [
-        "Earnings en 0d (blackout)"
+        "Radar"
       ]
     },
     {
@@ -165,42 +197,6 @@
       "ticker": "A",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "MMM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "RSI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SEZL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CRS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "IFS",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
