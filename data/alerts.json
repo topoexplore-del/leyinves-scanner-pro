@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-24 17:10:08 (Hora Colombia)",
+  "checked_at": "2026-07-24 18:01:23 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,20 +10,20 @@
     "drawdown_52w_pct": -2.47,
     "realized_vol_20d": 11.7
   },
-  "confirmed": 4,
+  "confirmed": 2,
   "signals": [
     {
-      "ticker": "SEIC",
-      "composite": 84,
+      "ticker": "VCTR",
+      "composite": 90,
       "prob": 95,
-      "buffett": 90,
-      "mos": -47.5,
-      "rs_rank": 82,
+      "buffett": 95,
+      "mos": -36.3,
+      "rs_rank": 91,
       "zones": {
-        "entry": 98.08,
-        "tp1": 100.31,
-        "tp2": 102.54,
-        "sl": 94.73
+        "entry": 95.61,
+        "tp1": 98.55,
+        "tp2": 101.49,
+        "sl": 91.2
       },
       "periods": [
         "1 Mes",
@@ -36,55 +36,17 @@
       "composite": 79,
       "prob": 95,
       "buffett": 85,
-      "mos": -59.3,
+      "mos": -59.6,
       "rs_rank": 92,
       "zones": {
-        "entry": 171.18,
-        "tp1": 176.22,
-        "tp2": 181.26,
-        "sl": 163.62
+        "entry": 172.64,
+        "tp1": 177.67,
+        "tp2": 182.7,
+        "sl": 165.09
       },
       "periods": [
-        "1 Mes",
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "UGI",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 30,
-      "mos": 9.1,
-      "rs_rank": 38,
-      "zones": {
-        "entry": 36.61,
-        "tp1": 37.33,
-        "tp2": 38.05,
-        "sl": 35.53
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "HXL",
-      "composite": 56,
-      "prob": 95,
-      "buffett": 25,
-      "mos": -77.6,
-      "rs_rank": 85,
-      "zones": {
-        "entry": 105.66,
-        "tp1": 108.85,
-        "tp2": 112.04,
-        "sl": 100.88
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses"
       ]
     }
   ],
@@ -114,19 +76,7 @@
       ]
     },
     {
-      "ticker": "NEWT",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "EOG",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VCTR",
       "failed": [
         "Radar"
       ]
@@ -144,25 +94,13 @@
       ]
     },
     {
+      "ticker": "NEM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "NVDA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VRTX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WDFC",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VIPS",
       "failed": [
         "Radar"
       ]
@@ -174,7 +112,31 @@
       ]
     },
     {
+      "ticker": "SEIC",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "TROW",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "A",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MMM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ANET",
       "failed": [
         "Radar"
       ]
