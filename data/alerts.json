@@ -1,37 +1,17 @@
 {
-  "checked_at": "2026-07-23 17:55:35 (Hora Colombia)",
+  "checked_at": "2026-07-24 11:49:33 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 738.18,
-    "spy_sma200": 695.06,
-    "spy_vs_sma200_pct": 6.2,
-    "drawdown_52w_pct": -2.57,
-    "realized_vol_20d": 11.7
+    "spy_price": 741.6,
+    "spy_sma200": 695.44,
+    "spy_vs_sma200_pct": 6.64,
+    "drawdown_52w_pct": -2.11,
+    "realized_vol_20d": 11.8
   },
-  "confirmed": 5,
+  "confirmed": 4,
   "signals": [
-    {
-      "ticker": "NVDA",
-      "composite": 85,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -83.8,
-      "rs_rank": 55,
-      "zones": {
-        "entry": 209.85,
-        "tp1": 217.2,
-        "tp2": 224.55,
-        "sl": 198.82
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
     {
       "ticker": "SEIC",
       "composite": 84,
@@ -164,6 +144,12 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "VRTX",
       "failed": [
         "Radar"
@@ -189,12 +175,6 @@
     },
     {
       "ticker": "TROW",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "A",
       "failed": [
         "Radar"
       ]
