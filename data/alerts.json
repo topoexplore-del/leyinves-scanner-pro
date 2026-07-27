@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-07-27 17:14:18 (Hora Colombia)",
+  "checked_at": "2026-07-27 18:02:58 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
     "spy_price": 739.09,
-    "spy_sma200": 695.81,
-    "spy_vs_sma200_pct": 6.22,
+    "spy_sma200": 695.43,
+    "spy_vs_sma200_pct": 6.28,
     "drawdown_52w_pct": -2.45,
-    "realized_vol_20d": 11.3
+    "realized_vol_20d": 11.7
   },
-  "confirmed": 2,
+  "confirmed": 1,
   "signals": [
     {
       "ticker": "VCTR",
@@ -18,7 +18,7 @@
       "prob": 95,
       "buffett": 95,
       "mos": -36.3,
-      "rs_rank": 91,
+      "rs_rank": 93,
       "zones": {
         "entry": 95.61,
         "tp1": 98.55,
@@ -27,24 +27,6 @@
       },
       "periods": [
         "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "NBIX",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -59.6,
-      "rs_rank": 92,
-      "zones": {
-        "entry": 172.64,
-        "tp1": 177.67,
-        "tp2": 182.7,
-        "sl": 165.09
-      },
-      "periods": [
         "3 Meses",
         "6 Meses"
       ]
@@ -112,12 +94,6 @@
       ]
     },
     {
-      "ticker": "SEIC",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "TROW",
       "failed": [
         "Radar"
@@ -137,6 +113,12 @@
     },
     {
       "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "RSI",
       "failed": [
         "Radar"
       ]
