@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-28 17:09:34 (Hora Colombia)",
+  "checked_at": "2026-07-28 17:59:01 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,20 +10,40 @@
     "drawdown_52w_pct": -2.21,
     "realized_vol_20d": 9.7
   },
-  "confirmed": 1,
+  "confirmed": 2,
   "signals": [
     {
-      "ticker": "VCTR",
-      "composite": 90,
+      "ticker": "OVV",
+      "composite": 66,
       "prob": 95,
-      "buffett": 95,
-      "mos": -36.3,
+      "buffett": 70,
+      "mos": -3.7,
+      "rs_rank": 63,
+      "zones": {
+        "entry": 59.53,
+        "tp1": 61.35,
+        "tp2": 63.17,
+        "sl": 56.8
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "FFIV",
+      "composite": 64,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -67.4,
       "rs_rank": 93,
       "zones": {
-        "entry": 95.61,
-        "tp1": 98.55,
-        "tp2": 101.49,
-        "sl": 91.2
+        "entry": 403.62,
+        "tp1": 418.1,
+        "tp2": 432.58,
+        "sl": 381.9
       },
       "periods": [
         "1 Mes",
@@ -52,6 +72,12 @@
       ]
     },
     {
+      "ticker": "CINF",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "APA",
       "failed": [
         "Radar"
@@ -64,7 +90,7 @@
       ]
     },
     {
-      "ticker": "CBOE",
+      "ticker": "VCTR",
       "failed": [
         "Radar"
       ]
@@ -76,7 +102,7 @@
       ]
     },
     {
-      "ticker": "NEM",
+      "ticker": "ACN",
       "failed": [
         "Radar"
       ]
@@ -88,37 +114,31 @@
       ]
     },
     {
-      "ticker": "SCCO",
+      "ticker": "CBOE",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "TROW",
+      "ticker": "ARGX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "A",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MMM",
+      "ticker": "HALO",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "ANET",
+      "ticker": "VIPS",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "RSI",
+      "ticker": "SCCO",
       "failed": [
         "Radar"
       ]
