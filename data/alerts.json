@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-30 17:11:49 (Hora Colombia)",
+  "checked_at": "2026-07-30 18:00:06 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,37 +13,17 @@
   "confirmed": 7,
   "signals": [
     {
-      "ticker": "EOG",
-      "composite": 91,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -17.7,
-      "rs_rank": 53,
-      "zones": {
-        "entry": 138.51,
-        "tp1": 142.29,
-        "tp2": 146.07,
-        "sl": 132.84
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
       "ticker": "STLD",
       "composite": 81,
       "prob": 95,
       "buffett": 50,
-      "mos": -51.0,
-      "rs_rank": 74,
+      "mos": -49.5,
+      "rs_rank": 70,
       "zones": {
-        "entry": 257.23,
-        "tp1": 265.6,
-        "tp2": 273.97,
-        "sl": 244.68
+        "entry": 249.7,
+        "tp1": 258.51,
+        "tp2": 267.32,
+        "sl": 236.48
       },
       "periods": [
         "1 Semana",
@@ -54,51 +34,17 @@
       ]
     },
     {
-      "ticker": "MNST",
-      "composite": 80,
+      "ticker": "GD",
+      "composite": 75,
       "prob": 95,
-      "buffett": 85,
-      "mos": -79.1,
-      "rs_rank": 88,
+      "buffett": 50,
+      "mos": -49.8,
+      "rs_rank": 84,
       "zones": {
-        "entry": 97.09,
-        "tp1": 99.25,
-        "tp2": 101.41,
-        "sl": 93.85
-      },
-      "periods": [
-        "1 Semana"
-      ]
-    },
-    {
-      "ticker": "GWW",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 60,
-      "mos": -81.1,
-      "rs_rank": 82,
-      "zones": {
-        "entry": 1389.75,
-        "tp1": 1420.26,
-        "tp2": 1450.77,
-        "sl": 1343.98
-      },
-      "periods": [
-        "1 Semana"
-      ]
-    },
-    {
-      "ticker": "SNA",
-      "composite": 69,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -45.9,
-      "rs_rank": 65,
-      "zones": {
-        "entry": 416.5,
-        "tp1": 425.87,
-        "tp2": 435.24,
-        "sl": 402.44
+        "entry": 378.35,
+        "tp1": 387.06,
+        "tp2": 395.77,
+        "sl": 365.29
       },
       "periods": [
         "1 Semana",
@@ -108,20 +54,41 @@
       ]
     },
     {
-      "ticker": "OVV",
-      "composite": 66,
+      "ticker": "NUE",
+      "composite": 71,
       "prob": 95,
-      "buffett": 70,
-      "mos": -2.2,
-      "rs_rank": 49,
+      "buffett": 45,
+      "mos": -35.5,
+      "rs_rank": 74,
       "zones": {
-        "entry": 58.6,
-        "tp1": 60.44,
-        "tp2": 62.28,
-        "sl": 55.84
+        "entry": 253.47,
+        "tp1": 261.98,
+        "tp2": 270.49,
+        "sl": 240.7
       },
       "periods": [
+        "1 Semana",
         "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "SNA",
+      "composite": 69,
+      "prob": 95,
+      "buffett": 90,
+      "mos": -45.3,
+      "rs_rank": 69,
+      "zones": {
+        "entry": 412.06,
+        "tp1": 421.31,
+        "tp2": 430.56,
+        "sl": 398.19
+      },
+      "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses"
       ]
@@ -131,18 +98,55 @@
       "composite": 61,
       "prob": 95,
       "buffett": 30,
-      "mos": 8.8,
-      "rs_rank": 32,
+      "mos": 9.4,
+      "rs_rank": 23,
       "zones": {
-        "entry": 36.73,
-        "tp1": 37.43,
-        "tp2": 38.13,
-        "sl": 35.68
+        "entry": 36.5,
+        "tp1": 37.22,
+        "tp2": 37.94,
+        "sl": 35.42
       },
       "periods": [
         "1 Mes",
         "3 Meses",
         "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ALGN",
+      "composite": 60,
+      "prob": 95,
+      "buffett": 80,
+      "mos": -51.9,
+      "rs_rank": 40,
+      "zones": {
+        "entry": 177.95,
+        "tp1": 185.04,
+        "tp2": 192.13,
+        "sl": 167.31
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "HXL",
+      "composite": 56,
+      "prob": 95,
+      "buffett": 25,
+      "mos": -77.4,
+      "rs_rank": 74,
+      "zones": {
+        "entry": 104.59,
+        "tp1": 107.98,
+        "tp2": 111.37,
+        "sl": 99.51
+      },
+      "periods": [
+        "3 Meses"
       ]
     }
   ],
@@ -160,13 +164,13 @@
       ]
     },
     {
-      "ticker": "BVN",
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "APA",
+      "ticker": "EOG",
       "failed": [
         "Radar"
       ]
@@ -196,13 +200,7 @@
       ]
     },
     {
-      "ticker": "AON",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "V",
+      "ticker": "LMT",
       "failed": [
         "Analysis"
       ]
@@ -210,19 +208,13 @@
     {
       "ticker": "CBOE",
       "failed": [
+        "Earnings en 1d (blackout)"
+      ]
+    },
+    {
+      "ticker": "GRMN",
+      "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "VRTX",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "HALO",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -232,7 +224,19 @@
       ]
     },
     {
-      "ticker": "SCCO",
+      "ticker": "TROW",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CRM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "A",
       "failed": [
         "Radar"
       ]
