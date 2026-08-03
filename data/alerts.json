@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-07-31 18:02:51 (Hora Colombia)",
+  "checked_at": "2026-08-03 12:14:25 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 747.03,
-    "spy_sma200": 697.41,
-    "spy_vs_sma200_pct": 7.12,
-    "drawdown_52w_pct": -1.4,
-    "realized_vol_20d": 12.7
+    "spy_price": 756.49,
+    "spy_sma200": 697.91,
+    "spy_vs_sma200_pct": 8.39,
+    "drawdown_52w_pct": -0.15,
+    "realized_vol_20d": 13.1
   },
   "confirmed": 6,
   "signals": [
@@ -207,15 +207,15 @@
       ]
     },
     {
-      "ticker": "CBOE",
+      "ticker": "NVDA",
       "failed": [
-        "Earnings en 0d (blackout)"
+        "Radar"
       ]
     },
     {
-      "ticker": "HALO",
+      "ticker": "CBOE",
       "failed": [
-        "Analysis"
+        "Earnings en 0d (blackout)"
       ]
     }
   ]
