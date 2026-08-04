@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-04 17:18:18 (Hora Colombia)",
+  "checked_at": "2026-08-04 18:04:52 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,137 +10,32 @@
     "drawdown_52w_pct": 0.0,
     "realized_vol_20d": 14.5
   },
-  "confirmed": 6,
+  "confirmed": 1,
   "signals": [
     {
-      "ticker": "FHI",
-      "composite": 94,
+      "ticker": "VLO",
+      "composite": 100,
       "prob": 95,
-      "buffett": 100,
-      "mos": -23.4,
-      "rs_rank": 50,
+      "buffett": 65,
+      "mos": -32.3,
+      "rs_rank": 87,
       "zones": {
-        "entry": 59.52,
-        "tp1": 61.0,
-        "tp2": 62.48,
-        "sl": 57.3
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "CBOE",
-      "composite": 90,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -61.6,
-      "rs_rank": 48,
-      "zones": {
-        "entry": 306.52,
-        "tp1": 318.89,
-        "tp2": 331.26,
-        "sl": 287.96
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "GD",
-      "composite": 75,
-      "prob": 95,
-      "buffett": 50,
-      "mos": -50.1,
-      "rs_rank": 71,
-      "zones": {
-        "entry": 380.81,
-        "tp1": 389.5,
-        "tp2": 398.19,
-        "sl": 367.77
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "NUE",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 45,
-      "mos": -35.8,
-      "rs_rank": 76,
-      "zones": {
-        "entry": 254.83,
-        "tp1": 263.02,
-        "tp2": 271.21,
-        "sl": 242.55
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "FMX",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 30,
-      "mos": -49.6,
-      "rs_rank": 67,
-      "zones": {
-        "entry": 126.71,
-        "tp1": 130.98,
-        "tp2": 135.25,
-        "sl": 120.3
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 30,
-      "mos": -40.9,
-      "rs_rank": 39,
-      "zones": {
-        "entry": 154.32,
-        "tp1": 158.05,
-        "tp2": 161.78,
-        "sl": 148.72
+        "entry": 304.25,
+        "tp1": 315.22,
+        "tp2": 326.19,
+        "sl": 287.8
       },
       "periods": [
         "1 Mes",
         "3 Meses",
-        "6 Meses"
+        "6 Meses",
+        "1 A\u00f1o"
       ]
     }
   ],
   "watchlist": [
     {
       "ticker": "BVN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VLO",
       "failed": [
         "Radar"
       ]
@@ -158,21 +53,15 @@
       ]
     },
     {
-      "ticker": "ZM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "APA",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "HON",
+      "ticker": "FHI",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -190,7 +79,7 @@
     {
       "ticker": "EOG",
       "failed": [
-        "Earnings en 1d (blackout)"
+        "Radar"
       ]
     },
     {
@@ -206,6 +95,12 @@
       ]
     },
     {
+      "ticker": "CBOE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "INCY",
       "failed": [
         "Radar"
@@ -215,6 +110,12 @@
       "ticker": "ACN",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "AMG",
+      "failed": [
+        "Analysis"
       ]
     },
     {
