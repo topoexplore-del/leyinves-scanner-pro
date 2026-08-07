@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-08-06 20:30:43 (Hora Colombia)",
+  "checked_at": "2026-08-07 11:01:46 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 768.56,
-    "spy_sma200": 699.59,
-    "spy_vs_sma200_pct": 9.86,
-    "drawdown_52w_pct": -0.36,
-    "realized_vol_20d": 14.3
+    "spy_price": 772.97,
+    "spy_sma200": 700.13,
+    "spy_vs_sma200_pct": 10.4,
+    "drawdown_52w_pct": 0.0,
+    "realized_vol_20d": 14.4
   },
-  "confirmed": 4,
+  "confirmed": 5,
   "signals": [
     {
       "ticker": "HRMY",
@@ -87,6 +87,27 @@
       },
       "periods": [
         "3 Meses"
+      ]
+    },
+    {
+      "ticker": "SARO",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 10,
+      "mos": -57.8,
+      "rs_rank": 73,
+      "zones": {
+        "entry": 29.69,
+        "tp1": 30.72,
+        "tp2": 31.75,
+        "sl": 28.15
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
       ]
     }
   ],
