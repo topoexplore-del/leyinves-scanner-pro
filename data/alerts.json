@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-08-07 17:36:15 (Hora Colombia)",
+  "checked_at": "2026-08-10 11:04:32 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 773.26,
-    "spy_sma200": 700.13,
-    "spy_vs_sma200_pct": 10.45,
+    "spy_price": 774.33,
+    "spy_sma200": 700.67,
+    "spy_vs_sma200_pct": 10.51,
     "drawdown_52w_pct": 0.0,
-    "realized_vol_20d": 14.4
+    "realized_vol_20d": 14.0
   },
-  "confirmed": 7,
+  "confirmed": 6,
   "signals": [
     {
       "ticker": "VLO",
@@ -107,27 +107,6 @@
         "1 Semana",
         "1 Mes",
         "3 Meses"
-      ]
-    },
-    {
-      "ticker": "SARO",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 10,
-      "mos": -57.8,
-      "rs_rank": 76,
-      "zones": {
-        "entry": 29.69,
-        "tp1": 30.72,
-        "tp2": 31.75,
-        "sl": 28.15
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
       ]
     },
     {
@@ -230,13 +209,13 @@
       ]
     },
     {
-      "ticker": "VCTR",
+      "ticker": "RELY",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "SEZL",
+      "ticker": "VCTR",
       "failed": [
         "Radar"
       ]
