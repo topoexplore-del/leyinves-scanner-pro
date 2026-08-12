@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-12 16:53:44 (Hora Colombia)",
+  "checked_at": "2026-08-12 17:39:58 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,60 +10,19 @@
     "drawdown_52w_pct": -0.1,
     "realized_vol_20d": 14.1
   },
-  "confirmed": 11,
+  "confirmed": 2,
   "signals": [
-    {
-      "ticker": "VLO",
-      "composite": 100,
-      "prob": 95,
-      "buffett": 65,
-      "mos": -33.9,
-      "rs_rank": 92,
-      "zones": {
-        "entry": 311.44,
-        "tp1": 323.13,
-        "tp2": 334.82,
-        "sl": 293.9
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "CF",
-      "composite": 100,
-      "prob": 95,
-      "buffett": 100,
-      "mos": -11.7,
-      "rs_rank": 55,
-      "zones": {
-        "entry": 120.07,
-        "tp1": 124.78,
-        "tp2": 129.49,
-        "sl": 113.0
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
     {
       "ticker": "EC",
       "composite": 91,
       "prob": 95,
       "buffett": 60,
       "mos": 300.0,
-      "rs_rank": 93,
+      "rs_rank": 91,
       "zones": {
-        "entry": 16.86,
-        "tp1": 17.51,
-        "tp2": 18.16,
+        "entry": 16.82,
+        "tp1": 17.45,
+        "tp2": 18.08,
         "sl": 15.88
       },
       "periods": [
@@ -80,7 +39,7 @@
       "prob": 95,
       "buffett": 90,
       "mos": -35.8,
-      "rs_rank": 77,
+      "rs_rank": 76,
       "zones": {
         "entry": 8.56,
         "tp1": 8.98,
@@ -93,144 +52,6 @@
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "ET",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 20,
-      "mos": -15.2,
-      "rs_rank": 62,
-      "zones": {
-        "entry": 20.48,
-        "tp1": 20.83,
-        "tp2": 21.18,
-        "sl": 19.96
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "STLD",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 50,
-      "mos": -52.5,
-      "rs_rank": 74,
-      "zones": {
-        "entry": 266.01,
-        "tp1": 274.65,
-        "tp2": 283.29,
-        "sl": 253.05
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "CVX",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 65,
-      "mos": -22.8,
-      "rs_rank": 62,
-      "zones": {
-        "entry": 193.51,
-        "tp1": 198.17,
-        "tp2": 202.83,
-        "sl": 186.52
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "COP",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -21.9,
-      "rs_rank": 64,
-      "zones": {
-        "entry": 121.97,
-        "tp1": 125.52,
-        "tp2": 129.07,
-        "sl": 116.64
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "OVV",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -9.0,
-      "rs_rank": 68,
-      "zones": {
-        "entry": 62.91,
-        "tp1": 65.08,
-        "tp2": 67.25,
-        "sl": 59.65
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "EMR",
-      "composite": 60,
-      "prob": 95,
-      "buffett": 65,
-      "mos": -61.4,
-      "rs_rank": 71,
-      "zones": {
-        "entry": 157.27,
-        "tp1": 162.06,
-        "tp2": 166.85,
-        "sl": 150.09
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "BWA",
-      "composite": 55,
-      "prob": 95,
-      "buffett": 30,
-      "mos": -48.8,
-      "rs_rank": 72,
-      "zones": {
-        "entry": 68.53,
-        "tp1": 71.02,
-        "tp2": 73.51,
-        "sl": 64.8
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
       ]
     }
   ],
@@ -249,6 +70,12 @@
     },
     {
       "ticker": "EOG",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VLO",
       "failed": [
         "Radar"
       ]
@@ -291,12 +118,6 @@
     },
     {
       "ticker": "SM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MATX",
       "failed": [
         "Radar"
       ]
