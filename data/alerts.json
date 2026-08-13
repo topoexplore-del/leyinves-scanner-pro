@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-13 16:53:02 (Hora Colombia)",
+  "checked_at": "2026-08-13 17:39:13 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,23 +10,42 @@
     "drawdown_52w_pct": 0.0,
     "realized_vol_20d": 14.0
   },
-  "confirmed": 2,
+  "confirmed": 5,
   "signals": [
+    {
+      "ticker": "CF",
+      "composite": 100,
+      "prob": 95,
+      "buffett": 100,
+      "mos": -10.6,
+      "rs_rank": 10,
+      "zones": {
+        "entry": 118.57,
+        "tp1": 123.37,
+        "tp2": 128.17,
+        "sl": 111.37
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
     {
       "ticker": "EC",
       "composite": 91,
       "prob": 95,
       "buffett": 60,
       "mos": 300.0,
-      "rs_rank": 91,
+      "rs_rank": 89,
       "zones": {
-        "entry": 16.82,
-        "tp1": 17.45,
-        "tp2": 18.08,
-        "sl": 15.88
+        "entry": 16.78,
+        "tp1": 17.39,
+        "tp2": 18.0,
+        "sl": 15.87
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -34,24 +53,57 @@
       ]
     },
     {
-      "ticker": "PBYI",
-      "composite": 86,
+      "ticker": "NDSN",
+      "composite": 64,
       "prob": 95,
-      "buffett": 90,
-      "mos": -35.8,
-      "rs_rank": 76,
+      "buffett": 85,
+      "mos": -64.6,
+      "rs_rank": 67,
       "zones": {
-        "entry": 8.56,
-        "tp1": 8.98,
-        "tp2": 9.4,
-        "sl": 7.93
+        "entry": 309.47,
+        "tp1": 315.45,
+        "tp2": 321.43,
+        "sl": 300.5
       },
       "periods": [
-        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "KOF",
+      "composite": 60,
+      "prob": 95,
+      "buffett": 65,
+      "mos": 300.0,
+      "rs_rank": 49,
+      "zones": {
+        "entry": 109.1,
+        "tp1": 111.67,
+        "tp2": 114.24,
+        "sl": 105.24
+      },
+      "periods": [
         "1 Mes",
         "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "AME",
+      "composite": 60,
+      "prob": 95,
+      "buffett": 55,
+      "mos": -66.3,
+      "rs_rank": 69,
+      "zones": {
+        "entry": 256.88,
+        "tp1": 262.36,
+        "tp2": 267.84,
+        "sl": 248.66
+      },
+      "periods": [
+        "1 Mes"
       ]
     }
   ],
@@ -87,12 +139,6 @@
       ]
     },
     {
-      "ticker": "PSX",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "FHI",
       "failed": [
         "Radar"
@@ -118,6 +164,12 @@
     },
     {
       "ticker": "SM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MATX",
       "failed": [
         "Radar"
       ]
