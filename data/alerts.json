@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-17 16:31:46 (Hora Colombia)",
+  "checked_at": "2026-08-17 17:20:53 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,7 +10,7 @@
     "drawdown_52w_pct": -0.67,
     "realized_vol_20d": 13.5
   },
-  "confirmed": 3,
+  "confirmed": 5,
   "signals": [
     {
       "ticker": "EC",
@@ -18,14 +18,15 @@
       "prob": 95,
       "buffett": 60,
       "mos": 300.0,
-      "rs_rank": 90,
+      "rs_rank": 89,
       "zones": {
-        "entry": 17.03,
-        "tp1": 17.64,
-        "tp2": 18.25,
-        "sl": 16.12
+        "entry": 16.99,
+        "tp1": 17.59,
+        "tp2": 18.19,
+        "sl": 16.09
       },
       "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -37,13 +38,52 @@
       "composite": 71,
       "prob": 95,
       "buffett": 30,
-      "mos": -33.8,
-      "rs_rank": 47,
+      "mos": -34.4,
+      "rs_rank": 49,
       "zones": {
-        "entry": 157.49,
-        "tp1": 161.21,
-        "tp2": 164.93,
-        "sl": 151.91
+        "entry": 159.0,
+        "tp1": 162.65,
+        "tp2": 166.3,
+        "sl": 153.53
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 65,
+      "mos": -24.7,
+      "rs_rank": 59,
+      "zones": {
+        "entry": 198.68,
+        "tp1": 203.07,
+        "tp2": 207.46,
+        "sl": 192.09
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "OVV",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -8.2,
+      "rs_rank": 60,
+      "zones": {
+        "entry": 62.43,
+        "tp1": 64.39,
+        "tp2": 66.35,
+        "sl": 59.49
       },
       "periods": [
         "1 Semana",
@@ -57,13 +97,13 @@
       "composite": 65,
       "prob": 95,
       "buffett": 65,
-      "mos": -91.6,
-      "rs_rank": 3,
+      "mos": -91.3,
+      "rs_rank": 2,
       "zones": {
-        "entry": 433.21,
-        "tp1": 465.15,
-        "tp2": 497.09,
-        "sl": 385.3
+        "entry": 419.37,
+        "tp1": 450.72,
+        "tp2": 482.07,
+        "sl": 372.35
       },
       "periods": [
         "1 Semana",
@@ -75,12 +115,6 @@
     }
   ],
   "watchlist": [
-    {
-      "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
     {
       "ticker": "BVN",
       "failed": [
@@ -106,21 +140,15 @@
       ]
     },
     {
-      "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "VIST",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "STZ",
+      "ticker": "ALL",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -160,7 +188,19 @@
       ]
     },
     {
-      "ticker": "KRT",
+      "ticker": "PIPR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CBOE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
