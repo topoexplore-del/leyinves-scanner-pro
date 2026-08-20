@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-20 16:34:34 (Hora Colombia)",
+  "checked_at": "2026-08-20 17:20:17 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,20 +10,20 @@
     "drawdown_52w_pct": -1.96,
     "realized_vol_20d": 13.2
   },
-  "confirmed": 7,
+  "confirmed": 3,
   "signals": [
     {
-      "ticker": "FHI",
-      "composite": 94,
+      "ticker": "RIO",
+      "composite": 91,
       "prob": 95,
-      "buffett": 100,
-      "mos": -27.9,
-      "rs_rank": 74,
+      "buffett": 75,
+      "mos": -18.6,
+      "rs_rank": 12,
       "zones": {
-        "entry": 63.38,
-        "tp1": 65.08,
-        "tp2": 66.78,
-        "sl": 60.83
+        "entry": 99.75,
+        "tp1": 102.05,
+        "tp2": 104.35,
+        "sl": 96.3
       },
       "periods": [
         "1 Mes",
@@ -33,123 +33,42 @@
       ]
     },
     {
-      "ticker": "EC",
-      "composite": 91,
+      "ticker": "HAL",
+      "composite": 65,
       "prob": 95,
-      "buffett": 60,
-      "mos": 300.0,
-      "rs_rank": 91,
+      "buffett": 45,
+      "mos": -32.0,
+      "rs_rank": 4,
       "zones": {
-        "entry": 17.51,
-        "tp1": 18.09,
-        "tp2": 18.67,
-        "sl": 16.64
+        "entry": 34.73,
+        "tp1": 35.7,
+        "tp2": 36.67,
+        "sl": 33.27
       },
       "periods": [
         "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "VRTX",
-      "composite": 73,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -66.7,
-      "rs_rank": 82,
-      "zones": {
-        "entry": 523.49,
-        "tp1": 539.17,
-        "tp2": 554.85,
-        "sl": 499.97
-      },
-      "periods": [
         "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
     },
     {
-      "ticker": "XOM",
-      "composite": 71,
+      "ticker": "KOF",
+      "composite": 60,
       "prob": 95,
-      "buffett": 30,
-      "mos": -36.6,
-      "rs_rank": 44,
+      "buffett": 55,
+      "mos": null,
+      "rs_rank": 62,
       "zones": {
-        "entry": 164.47,
-        "tp1": 168.12,
-        "tp2": 171.77,
-        "sl": 159.0
+        "entry": 112.49,
+        "tp1": 114.96,
+        "tp2": 117.43,
+        "sl": 108.78
       },
       "periods": [
         "1 Semana",
         "1 Mes",
         "3 Meses"
-      ]
-    },
-    {
-      "ticker": "OVV",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -11.0,
-      "rs_rank": 71,
-      "zones": {
-        "entry": 64.44,
-        "tp1": 66.37,
-        "tp2": 68.3,
-        "sl": 61.54
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "AIR",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 25,
-      "mos": -53.8,
-      "rs_rank": 93,
-      "zones": {
-        "entry": 147.08,
-        "tp1": 153.54,
-        "tp2": 160.0,
-        "sl": 137.39
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "LQDT",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 50,
-      "mos": -69.6,
-      "rs_rank": 90,
-      "zones": {
-        "entry": 42.8,
-        "tp1": 44.34,
-        "tp2": 45.88,
-        "sl": 40.49
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
       ]
     }
   ],
@@ -197,13 +116,19 @@
       ]
     },
     {
+      "ticker": "FHI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "APA",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "RIO",
+      "ticker": "EC",
       "failed": [
         "Radar"
       ]
@@ -221,13 +146,7 @@
       ]
     },
     {
-      "ticker": "CNS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CBOE",
+      "ticker": "AA",
       "failed": [
         "Radar"
       ]
@@ -239,7 +158,7 @@
       ]
     },
     {
-      "ticker": "HL",
+      "ticker": "ACN",
       "failed": [
         "Radar"
       ]
