@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-08-25 17:17:59 (Hora Colombia)",
+  "checked_at": "2026-08-26 11:23:21 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 765.91,
-    "spy_sma200": 705.92,
-    "spy_vs_sma200_pct": 8.5,
-    "drawdown_52w_pct": -1.54,
-    "realized_vol_20d": 13.3
+    "spy_price": 764.98,
+    "spy_sma200": 706.42,
+    "spy_vs_sma200_pct": 8.29,
+    "drawdown_52w_pct": -1.66,
+    "realized_vol_20d": 11.7
   },
   "confirmed": 3,
   "signals": [
@@ -107,6 +107,12 @@
       ]
     },
     {
+      "ticker": "SMCI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "VIST",
       "failed": [
         "Radar"
@@ -156,12 +162,6 @@
     },
     {
       "ticker": "AA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SQM",
       "failed": [
         "Radar"
       ]
