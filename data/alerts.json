@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-26 19:36:10 (Hora Colombia)",
+  "checked_at": "2026-08-26 20:22:53 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,20 +13,19 @@
   "confirmed": 3,
   "signals": [
     {
-      "ticker": "BVN",
+      "ticker": "HRMY",
       "composite": 100,
       "prob": 95,
-      "buffett": 90,
-      "mos": 12.9,
-      "rs_rank": 54,
+      "buffett": 100,
+      "mos": -10.4,
+      "rs_rank": 91,
       "zones": {
-        "entry": 34.76,
-        "tp1": 36.24,
-        "tp2": 37.72,
-        "sl": 32.54
+        "entry": 38.55,
+        "tp1": 39.87,
+        "tp2": 41.19,
+        "sl": 36.57
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -34,19 +33,20 @@
       ]
     },
     {
-      "ticker": "HRMY",
-      "composite": 100,
+      "ticker": "SQM",
+      "composite": 90,
       "prob": 95,
       "buffett": 100,
-      "mos": -10.2,
-      "rs_rank": 90,
+      "mos": -38.3,
+      "rs_rank": 25,
       "zones": {
-        "entry": 38.09,
-        "tp1": 39.44,
-        "tp2": 40.79,
-        "sl": 36.07
+        "entry": 78.36,
+        "tp1": 81.19,
+        "tp2": 84.02,
+        "sl": 74.11
       },
       "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -58,13 +58,13 @@
       "composite": 76,
       "prob": 95,
       "buffett": 60,
-      "mos": -56.5,
-      "rs_rank": 50,
+      "mos": -55.2,
+      "rs_rank": 27,
       "zones": {
-        "entry": 233.75,
-        "tp1": 242.67,
-        "tp2": 251.59,
-        "sl": 220.37
+        "entry": 226.79,
+        "tp1": 235.85,
+        "tp2": 244.91,
+        "sl": 213.2
       },
       "periods": [
         "1 Semana",
@@ -78,6 +78,12 @@
   "watchlist": [
     {
       "ticker": "PBR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BVN",
       "failed": [
         "Radar"
       ]
@@ -119,7 +125,7 @@
       ]
     },
     {
-      "ticker": "STZ",
+      "ticker": "SMCI",
       "failed": [
         "Radar"
       ]
@@ -132,12 +138,6 @@
     },
     {
       "ticker": "APA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "EC",
       "failed": [
         "Radar"
       ]
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "ticker": "AA",
+      "ticker": "MATX",
       "failed": [
         "Radar"
       ]
