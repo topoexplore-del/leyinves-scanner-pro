@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-27 19:21:00 (Hora Colombia)",
+  "checked_at": "2026-08-28 00:56:45 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,22 +10,44 @@
     "drawdown_52w_pct": -0.87,
     "realized_vol_20d": 10.5
   },
-  "confirmed": 3,
+  "confirmed": 6,
   "signals": [
+    {
+      "ticker": "BVN",
+      "composite": 100,
+      "prob": 95,
+      "buffett": 90,
+      "mos": 9.6,
+      "rs_rank": 52,
+      "zones": {
+        "entry": 35.85,
+        "tp1": 37.34,
+        "tp2": 38.83,
+        "sl": 33.62
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
     {
       "ticker": "HRMY",
       "composite": 100,
       "prob": 95,
       "buffett": 100,
-      "mos": -10.4,
-      "rs_rank": 91,
+      "mos": -13.0,
+      "rs_rank": 89,
       "zones": {
-        "entry": 38.55,
-        "tp1": 39.87,
-        "tp2": 41.19,
-        "sl": 36.57
+        "entry": 39.48,
+        "tp1": 40.79,
+        "tp2": 42.1,
+        "sl": 37.51
       },
       "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -33,17 +55,17 @@
       ]
     },
     {
-      "ticker": "SQM",
-      "composite": 90,
+      "ticker": "FHI",
+      "composite": 94,
       "prob": 95,
       "buffett": 100,
-      "mos": -38.3,
-      "rs_rank": 25,
+      "mos": -29.1,
+      "rs_rank": 81,
       "zones": {
-        "entry": 78.36,
-        "tp1": 81.19,
-        "tp2": 84.02,
-        "sl": 74.11
+        "entry": 64.41,
+        "tp1": 65.9,
+        "tp2": 67.39,
+        "sl": 62.17
       },
       "periods": [
         "1 Semana",
@@ -54,17 +76,35 @@
       ]
     },
     {
-      "ticker": "FCFS",
-      "composite": 76,
+      "ticker": "SHEL",
+      "composite": 81,
       "prob": 95,
-      "buffett": 60,
-      "mos": -55.2,
-      "rs_rank": 27,
+      "buffett": 50,
+      "mos": 26.7,
+      "rs_rank": 69,
       "zones": {
-        "entry": 226.79,
-        "tp1": 235.85,
-        "tp2": 244.91,
-        "sl": 213.2
+        "entry": 90.27,
+        "tp1": 91.69,
+        "tp2": 93.11,
+        "sl": 88.14
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -85.6,
+      "rs_rank": 91,
+      "zones": {
+        "entry": 198.4,
+        "tp1": 207.37,
+        "tp2": 216.34,
+        "sl": 184.94
       },
       "periods": [
         "1 Semana",
@@ -72,36 +112,31 @@
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "TOST",
+      "composite": 76,
+      "prob": 95,
+      "buffett": 35,
+      "mos": -77.8,
+      "rs_rank": 95,
+      "zones": {
+        "entry": 34.8,
+        "tp1": 36.05,
+        "tp2": 37.3,
+        "sl": 32.92
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
   "watchlist": [
     {
-      "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BVN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "EOG",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "VLO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PBR",
       "failed": [
         "Radar"
       ]
@@ -126,12 +161,6 @@
     },
     {
       "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FHI",
       "failed": [
         "Radar"
       ]
@@ -162,6 +191,36 @@
     },
     {
       "ticker": "MATX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SQM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CBOE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "HL",
       "failed": [
         "Radar"
       ]
