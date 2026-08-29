@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-28 18:58:04 (Hora Colombia)",
+  "checked_at": "2026-08-28 22:39:24 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -17,8 +17,8 @@
       "composite": 100,
       "prob": 95,
       "buffett": 90,
-      "mos": 9.6,
-      "rs_rank": 52,
+      "mos": 9.4,
+      "rs_rank": 56,
       "zones": {
         "entry": 35.85,
         "tp1": 37.34,
@@ -38,7 +38,7 @@
       "composite": 100,
       "prob": 95,
       "buffett": 100,
-      "mos": -13.0,
+      "mos": -13.3,
       "rs_rank": 89,
       "zones": {
         "entry": 39.48,
@@ -59,8 +59,8 @@
       "composite": 94,
       "prob": 95,
       "buffett": 100,
-      "mos": -29.1,
-      "rs_rank": 81,
+      "mos": -29.0,
+      "rs_rank": 82,
       "zones": {
         "entry": 64.41,
         "tp1": 65.9,
@@ -81,7 +81,7 @@
       "prob": 95,
       "buffett": 50,
       "mos": 26.7,
-      "rs_rank": 69,
+      "rs_rank": 71,
       "zones": {
         "entry": 90.27,
         "tp1": 91.69,
@@ -99,7 +99,7 @@
       "prob": 95,
       "buffett": 70,
       "mos": -85.6,
-      "rs_rank": 90,
+      "rs_rank": 91,
       "zones": {
         "entry": 198.4,
         "tp1": 207.37,
@@ -190,12 +190,6 @@
       ]
     },
     {
-      "ticker": "MATX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "AA",
       "failed": [
         "Radar"
@@ -221,6 +215,12 @@
     },
     {
       "ticker": "HL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PBYI",
       "failed": [
         "Radar"
       ]
