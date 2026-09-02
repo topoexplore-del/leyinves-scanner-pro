@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-09-01 18:53:40 (Hora Colombia)",
+  "checked_at": "2026-09-02 13:32:00 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 761.78,
-    "spy_sma200": 708.29,
-    "spy_vs_sma200_pct": 7.55,
-    "drawdown_52w_pct": -2.07,
-    "realized_vol_20d": 7.2
+    "spy_price": 765.29,
+    "spy_sma200": 708.79,
+    "spy_vs_sma200_pct": 7.97,
+    "drawdown_52w_pct": -1.62,
+    "realized_vol_20d": 7.4
   },
-  "confirmed": 7,
+  "confirmed": 6,
   "signals": [
     {
       "ticker": "BVN",
@@ -68,27 +68,6 @@
       "periods": [
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -85.3,
-      "rs_rank": 80,
-      "zones": {
-        "entry": 193.15,
-        "tp1": 201.61,
-        "tp2": 210.07,
-        "sl": 180.46
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
       ]
     },
     {
