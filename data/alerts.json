@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-09-02 18:54:06 (Hora Colombia)",
+  "checked_at": "2026-09-03 13:27:55 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 765.16,
-    "spy_sma200": 708.78,
-    "spy_vs_sma200_pct": 7.95,
-    "drawdown_52w_pct": -1.64,
-    "realized_vol_20d": 7.4
+    "spy_price": 773.67,
+    "spy_sma200": 709.32,
+    "spy_vs_sma200_pct": 9.07,
+    "drawdown_52w_pct": -0.54,
+    "realized_vol_20d": 8.4
   },
-  "confirmed": 7,
+  "confirmed": 8,
   "signals": [
     {
       "ticker": "HRMY",
@@ -108,6 +108,26 @@
       },
       "periods": [
         "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -81.7,
+      "rs_rank": 67,
+      "zones": {
+        "entry": 222.14,
+        "tp1": 229.72,
+        "tp2": 237.3,
+        "sl": 210.77
+      },
+      "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
