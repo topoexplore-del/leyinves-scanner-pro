@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-09-08 18:56:53 (Hora Colombia)",
+  "checked_at": "2026-09-09 13:26:41 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 765.96,
-    "spy_sma200": 710.43,
-    "spy_vs_sma200_pct": 7.82,
-    "drawdown_52w_pct": -1.53,
-    "realized_vol_20d": 8.3
+    "spy_price": 762.88,
+    "spy_sma200": 710.95,
+    "spy_vs_sma200_pct": 7.3,
+    "drawdown_52w_pct": -1.93,
+    "realized_vol_20d": 8.4
   },
-  "confirmed": 9,
+  "confirmed": 8,
   "signals": [
     {
       "ticker": "CF",
@@ -45,26 +45,6 @@
         "tp1": 17.64,
         "tp2": 18.2,
         "sl": 16.24
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "composite": 85,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -82.2,
-      "rs_rank": 74,
-      "zones": {
-        "entry": 228.15,
-        "tp1": 235.53,
-        "tp2": 242.91,
-        "sl": 217.08
       },
       "periods": [
         "1 Semana",
