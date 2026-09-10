@@ -1,14 +1,21 @@
 {
   "2026-09-10": [
+    "AR",
+    "BP",
+    "CF",
     "CNXN",
+    "COP",
     "CVX",
     "EC",
+    "FCFS",
     "MATX",
     "OKE",
     "OVV",
     "PBYI",
+    "SCCO",
     "SHEL",
     "SQM",
-    "VCTR"
+    "VCTR",
+    "VIST"
   ]
 }
