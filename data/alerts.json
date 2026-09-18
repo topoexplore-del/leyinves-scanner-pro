@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-09-17 19:04:39 (Hora Colombia)",
+  "checked_at": "2026-09-18 13:12:09 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 762.6,
-    "spy_sma200": 713.81,
-    "spy_vs_sma200_pct": 6.84,
-    "drawdown_52w_pct": -1.96,
-    "realized_vol_20d": 9.6
+    "spy_price": 759.82,
+    "spy_sma200": 714.24,
+    "spy_vs_sma200_pct": 6.38,
+    "drawdown_52w_pct": -2.32,
+    "realized_vol_20d": 9.3
   },
-  "confirmed": 8,
+  "confirmed": 9,
   "signals": [
     {
       "ticker": "PBR",
@@ -132,6 +132,26 @@
       ]
     },
     {
+      "ticker": "ANET",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -85.5,
+      "rs_rank": 86,
+      "zones": {
+        "entry": 196.99,
+        "tp1": 205.47,
+        "tp2": 213.95,
+        "sl": 184.27
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
       "ticker": "COP",
       "composite": 71,
       "prob": 95,
@@ -195,6 +215,12 @@
       ]
     },
     {
+      "ticker": "SMCI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "VIST",
       "failed": [
         "Radar"
@@ -243,19 +269,13 @@
       ]
     },
     {
-      "ticker": "SHC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SHEL",
+      "ticker": "NVDA",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "FCFS",
+      "ticker": "SHEL",
       "failed": [
         "Radar"
       ]
