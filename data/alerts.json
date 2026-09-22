@@ -1,31 +1,32 @@
 {
-  "checked_at": "2026-09-21 18:58:12 (Hora Colombia)",
+  "checked_at": "2026-09-21 19:42:01 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 773.5,
-    "spy_sma200": 712.98,
-    "spy_vs_sma200_pct": 8.49,
-    "drawdown_52w_pct": -0.32,
-    "realized_vol_20d": 10.6
+    "spy_price": 761.69,
+    "spy_sma200": 712.48,
+    "spy_vs_sma200_pct": 6.91,
+    "drawdown_52w_pct": -1.84,
+    "realized_vol_20d": 9.2
   },
   "confirmed": 7,
   "signals": [
     {
-      "ticker": "CF",
-      "composite": 100,
+      "ticker": "PBYI",
+      "composite": 86,
       "prob": 95,
-      "buffett": 100,
-      "mos": -19.9,
-      "rs_rank": 92,
+      "buffett": 90,
+      "mos": -41.9,
+      "rs_rank": 0,
       "zones": {
-        "entry": 132.2,
-        "tp1": 137.59,
-        "tp2": 142.98,
-        "sl": 124.11
+        "entry": 9.49,
+        "tp1": 9.84,
+        "tp2": 10.19,
+        "sl": 8.96
       },
       "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -33,38 +34,40 @@
       ]
     },
     {
-      "ticker": "SM",
-      "composite": 91,
+      "ticker": "MU",
+      "composite": 84,
       "prob": 95,
-      "buffett": 70,
-      "mos": 74.8,
-      "rs_rank": 95,
+      "buffett": 85,
+      "mos": -70.6,
+      "rs_rank": 0,
       "zones": {
-        "entry": 36.5,
-        "tp1": 38.08,
-        "tp2": 39.66,
-        "sl": 34.13
+        "entry": 1001.02,
+        "tp1": 1050.28,
+        "tp2": 1099.54,
+        "sl": 927.13
       },
       "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
       ]
     },
     {
-      "ticker": "DVN",
-      "composite": 81,
+      "ticker": "MU",
+      "composite": 84,
       "prob": 95,
-      "buffett": 60,
-      "mos": 25.8,
-      "rs_rank": 84,
+      "buffett": 85,
+      "mos": -70.6,
+      "rs_rank": 0,
       "zones": {
-        "entry": 48.29,
-        "tp1": 49.71,
-        "tp2": 51.13,
-        "sl": 46.16
+        "entry": 1001.02,
+        "tp1": 1050.28,
+        "tp2": 1099.54,
+        "sl": 927.13
       },
       "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
@@ -76,7 +79,7 @@
       "prob": 95,
       "buffett": 70,
       "mos": -85.5,
-      "rs_rank": 86,
+      "rs_rank": 0,
       "zones": {
         "entry": 196.91,
         "tp1": 205.19,
@@ -90,17 +93,36 @@
       ]
     },
     {
+      "ticker": "CNXN",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 25,
+      "mos": -34.6,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 85.96,
+        "tp1": 88.35,
+        "tp2": 90.74,
+        "sl": 82.38
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
       "ticker": "A",
       "composite": 69,
       "prob": 95,
       "buffett": 85,
       "mos": -65.1,
-      "rs_rank": 91,
+      "rs_rank": 0,
       "zones": {
-        "entry": 155.06,
-        "tp1": 159.33,
-        "tp2": 163.6,
-        "sl": 148.66
+        "entry": 155.23,
+        "tp1": 159.35,
+        "tp2": 163.47,
+        "sl": 149.05
       },
       "periods": [
         "1 Semana",
@@ -109,36 +131,17 @@
       ]
     },
     {
-      "ticker": "FFIV",
-      "composite": 64,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -68.1,
-      "rs_rank": 81,
-      "zones": {
-        "entry": 430.4,
-        "tp1": 444.46,
-        "tp2": 458.52,
-        "sl": 409.31
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
       "ticker": "DGX",
       "composite": 60,
       "prob": 95,
       "buffett": 20,
-      "mos": -51.3,
-      "rs_rank": 91,
+      "mos": -51.2,
+      "rs_rank": 0,
       "zones": {
-        "entry": 245.85,
-        "tp1": 251.19,
-        "tp2": 256.53,
-        "sl": 237.84
+        "entry": 244.91,
+        "tp1": 250.06,
+        "tp2": 255.21,
+        "sl": 237.19
       },
       "periods": [
         "1 Semana",
@@ -172,12 +175,24 @@
       ]
     },
     {
+      "ticker": "PARR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "PBR",
       "failed": [
         "Radar"
       ]
     },
     {
+      "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "SMCI",
       "failed": [
         "Radar"
@@ -187,6 +202,18 @@
       "ticker": "SMCI",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "EPD",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BWMX",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -202,37 +229,13 @@
       ]
     },
     {
-      "ticker": "NXPI",
+      "ticker": "SM",
       "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
       "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VLO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ABEV",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ACN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PBYI",
       "failed": [
         "Radar"
       ]
