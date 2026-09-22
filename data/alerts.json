@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-09-21 19:42:01 (Hora Colombia)",
+  "checked_at": "2026-09-22 13:39:59 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 761.69,
-    "spy_sma200": 712.48,
-    "spy_vs_sma200_pct": 6.91,
-    "drawdown_52w_pct": -1.84,
-    "realized_vol_20d": 9.2
+    "spy_price": 773.88,
+    "spy_sma200": 713.47,
+    "spy_vs_sma200_pct": 8.47,
+    "drawdown_52w_pct": -0.27,
+    "realized_vol_20d": 10.5
   },
-  "confirmed": 7,
+  "confirmed": 6,
   "signals": [
     {
       "ticker": "PBYI",
@@ -71,25 +71,6 @@
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -85.5,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 196.91,
-        "tp1": 205.19,
-        "tp2": 213.47,
-        "sl": 184.49
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
       ]
     },
     {
