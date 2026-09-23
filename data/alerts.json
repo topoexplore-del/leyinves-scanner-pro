@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22 18:35:18 (Hora Colombia)",
+  "checked_at": "2026-09-22 19:12:20 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,135 +10,31 @@
     "drawdown_52w_pct": -0.33,
     "realized_vol_20d": 10.5
   },
-  "confirmed": 6,
+  "confirmed": 1,
   "signals": [
-    {
-      "ticker": "PBYI",
-      "composite": 86,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -41.9,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 9.49,
-        "tp1": 9.84,
-        "tp2": 10.19,
-        "sl": 8.96
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "composite": 84,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -70.6,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 1001.02,
-        "tp1": 1050.28,
-        "tp2": 1099.54,
-        "sl": 927.13
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "composite": 84,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -70.6,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 1001.02,
-        "tp1": 1050.28,
-        "tp2": 1099.54,
-        "sl": 927.13
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "CNXN",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 25,
-      "mos": -34.6,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 85.96,
-        "tp1": 88.35,
-        "tp2": 90.74,
-        "sl": 82.38
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
     {
       "ticker": "A",
       "composite": 69,
       "prob": 95,
       "buffett": 85,
-      "mos": -65.1,
-      "rs_rank": 0,
+      "mos": -66.3,
+      "rs_rank": 94,
       "zones": {
-        "entry": 155.23,
-        "tp1": 159.35,
-        "tp2": 163.47,
-        "sl": 149.05
+        "entry": 160.66,
+        "tp1": 164.94,
+        "tp2": 169.22,
+        "sl": 154.24
       },
       "periods": [
         "1 Semana",
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "DGX",
-      "composite": 60,
-      "prob": 95,
-      "buffett": 20,
-      "mos": -51.2,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 244.91,
-        "tp1": 250.06,
-        "tp2": 255.21,
-        "sl": 237.19
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses"
       ]
     }
   ],
   "watchlist": [
     {
       "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BVN",
       "failed": [
         "Radar"
       ]
@@ -168,12 +64,6 @@
       ]
     },
     {
-      "ticker": "CF",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "SMCI",
       "failed": [
         "Radar"
@@ -183,18 +73,6 @@
       "ticker": "SMCI",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "EPD",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BWMX",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -210,13 +88,37 @@
       ]
     },
     {
-      "ticker": "SM",
+      "ticker": "NXPI",
       "failed": [
-        "Entry Zones"
+        "Radar"
       ]
     },
     {
       "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VLO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ACN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PBYI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NVDA",
       "failed": [
         "Radar"
       ]
