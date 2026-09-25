@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24 18:51:11 (Hora Colombia)",
+  "checked_at": "2026-09-24 19:22:33 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,22 +13,22 @@
   "confirmed": 1,
   "signals": [
     {
-      "ticker": "A",
-      "composite": 69,
+      "ticker": "PBYI",
+      "composite": 86,
       "prob": 95,
-      "buffett": 85,
-      "mos": -66.3,
-      "rs_rank": 22,
+      "buffett": 90,
+      "mos": -39.9,
+      "rs_rank": 86,
       "zones": {
-        "entry": 160.66,
-        "tp1": 164.94,
-        "tp2": 169.22,
-        "sl": 154.24
+        "entry": 9.17,
+        "tp1": 9.55,
+        "tp2": 9.93,
+        "sl": 8.6
       },
       "periods": [
-        "1 Semana",
         "3 Meses",
-        "6 Meses"
+        "6 Meses",
+        "1 A\u00f1o"
       ]
     }
   ],
@@ -40,24 +40,6 @@
       ]
     },
     {
-      "ticker": "CRUS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HRMY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PARR",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "PBR",
       "failed": [
         "Radar"
@@ -76,24 +58,6 @@
       ]
     },
     {
-      "ticker": "APA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DINO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MATX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "NXPI",
       "failed": [
         "Radar"
@@ -106,19 +70,55 @@
       ]
     },
     {
-      "ticker": "VLO",
+      "ticker": "NVDA",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ABEV",
+      "ticker": "MU",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ACN",
+      "ticker": "MU",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SHEL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ALAB",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
