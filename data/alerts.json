@@ -1,34 +1,54 @@
 {
-  "checked_at": "2026-09-25 18:56:13 (Hora Colombia)",
+  "checked_at": "2026-09-25 19:25:05 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 771.35,
-    "spy_sma200": 714.84,
-    "spy_vs_sma200_pct": 7.91,
-    "drawdown_52w_pct": -0.59,
-    "realized_vol_20d": 10.8
+    "spy_price": 767.18,
+    "spy_sma200": 714.36,
+    "spy_vs_sma200_pct": 7.39,
+    "drawdown_52w_pct": -1.13,
+    "realized_vol_20d": 10.9
   },
-  "confirmed": 1,
+  "confirmed": 2,
   "signals": [
     {
-      "ticker": "PBYI",
-      "composite": 86,
+      "ticker": "APA",
+      "composite": 94,
       "prob": 95,
-      "buffett": 90,
-      "mos": -39.9,
-      "rs_rank": 86,
+      "buffett": 95,
+      "mos": 5.8,
+      "rs_rank": 0,
       "zones": {
-        "entry": 9.17,
-        "tp1": 9.55,
-        "tp2": 9.93,
-        "sl": 8.6
+        "entry": 43.21,
+        "tp1": 44.76,
+        "tp2": 46.31,
+        "sl": 40.88
       },
       "periods": [
+        "1 Mes",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "FFIV",
+      "composite": 64,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -69.3,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 442.37,
+        "tp1": 456.32,
+        "tp2": 470.27,
+        "sl": 421.44
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
       ]
     }
   ],
@@ -40,6 +60,12 @@
       ]
     },
     {
+      "ticker": "HRMY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "PBR",
       "failed": [
         "Radar"
@@ -58,13 +84,7 @@
       ]
     },
     {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
+      "ticker": "PBYI",
       "failed": [
         "Radar"
       ]
@@ -94,6 +114,18 @@
       ]
     },
     {
+      "ticker": "DVN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MATX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ANET",
       "failed": [
         "Radar"
@@ -107,18 +139,6 @@
     },
     {
       "ticker": "ALAB",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TER",
       "failed": [
         "Radar"
       ]
