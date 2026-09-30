@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29 19:11:39 (Hora Colombia)",
+  "checked_at": "2026-09-29 20:07:38 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,8 +10,28 @@
     "drawdown_52w_pct": -1.33,
     "realized_vol_20d": 11.1
   },
-  "confirmed": 1,
+  "confirmed": 3,
   "signals": [
+    {
+      "ticker": "DINO",
+      "composite": 91,
+      "prob": 95,
+      "buffett": 65,
+      "mos": 9.7,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 104.8,
+        "tp1": 109.44,
+        "tp2": 114.08,
+        "sl": 97.84
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
     {
       "ticker": "NVDA",
       "composite": 85,
@@ -30,11 +50,37 @@
         "3 Meses",
         "6 Meses"
       ]
+    },
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 19.2,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 95.99,
+        "tp1": 97.58,
+        "tp2": 99.17,
+        "sl": 93.6
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
     }
   ],
   "watchlist": [
     {
       "ticker": "PBR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CRUS",
       "failed": [
         "Radar"
       ]
@@ -64,15 +110,21 @@
       ]
     },
     {
-      "ticker": "APA",
+      "ticker": "EC",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "DINO",
+      "ticker": "INCY",
       "failed": [
-        "Entry Zones"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VLO",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -82,9 +134,9 @@
       ]
     },
     {
-      "ticker": "MU",
+      "ticker": "CLS",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -94,19 +146,7 @@
       ]
     },
     {
-      "ticker": "SHEL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DVN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MATX",
+      "ticker": "MU",
       "failed": [
         "Radar"
       ]
