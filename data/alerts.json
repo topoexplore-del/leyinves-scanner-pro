@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30 19:29:05 (Hora Colombia)",
+  "checked_at": "2026-09-30 20:08:45 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,23 +10,22 @@
     "drawdown_52w_pct": -1.51,
     "realized_vol_20d": 11.1
   },
-  "confirmed": 2,
+  "confirmed": 3,
   "signals": [
     {
       "ticker": "DINO",
       "composite": 91,
       "prob": 95,
       "buffett": 65,
-      "mos": 9.7,
+      "mos": 10.7,
       "rs_rank": 0,
       "zones": {
-        "entry": 104.8,
-        "tp1": 109.44,
-        "tp2": 114.08,
-        "sl": 97.84
+        "entry": 104.23,
+        "tp1": 108.76,
+        "tp2": 113.29,
+        "sl": 97.44
       },
       "periods": [
-        "1 Mes",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
@@ -37,19 +36,35 @@
       "composite": 81,
       "prob": 95,
       "buffett": 50,
-      "mos": 19.2,
+      "mos": 20.8,
       "rs_rank": 0,
       "zones": {
-        "entry": 95.99,
-        "tp1": 97.58,
-        "tp2": 99.17,
-        "sl": 93.6
+        "entry": 94.66,
+        "tp1": 96.26,
+        "tp2": 97.86,
+        "sl": 92.26
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
         "3 Meses",
         "6 Meses"
+      ]
+    },
+    {
+      "ticker": "FFIV",
+      "composite": 64,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -68.4,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 433.9,
+        "tp1": 447.79,
+        "tp2": 461.68,
+        "sl": 413.06
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
       ]
     }
   ],
@@ -67,12 +82,6 @@
       ]
     },
     {
-      "ticker": "HRMY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "PBR",
       "failed": [
         "Radar"
@@ -91,13 +100,7 @@
       ]
     },
     {
-      "ticker": "EC",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "INCY",
+      "ticker": "MATX",
       "failed": [
         "Radar"
       ]
@@ -140,6 +143,18 @@
     },
     {
       "ticker": "ALAB",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "LRCX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMAT",
       "failed": [
         "Radar"
       ]
