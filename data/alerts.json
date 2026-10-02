@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-10-01 20:24:33 (Hora Colombia)",
+  "checked_at": "2026-10-02 14:51:54 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 762.63,
-    "spy_sma200": 716.11,
-    "spy_vs_sma200_pct": 6.5,
-    "drawdown_52w_pct": -1.72,
-    "realized_vol_20d": 10.8
+    "spy_price": 769.82,
+    "spy_sma200": 717.04,
+    "spy_vs_sma200_pct": 7.36,
+    "drawdown_52w_pct": -0.79,
+    "realized_vol_20d": 10.4
   },
-  "confirmed": 3,
+  "confirmed": 2,
   "signals": [
     {
       "ticker": "DINO",
@@ -29,25 +29,6 @@
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "composite": 85,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -82.0,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 226.59,
-        "tp1": 232.54,
-        "tp2": 238.49,
-        "sl": 217.66
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
       ]
     },
     {
