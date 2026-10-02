@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01 19:39:04 (Hora Colombia)",
+  "checked_at": "2026-10-01 20:24:33 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,20 +10,20 @@
     "drawdown_52w_pct": -1.72,
     "realized_vol_20d": 10.8
   },
-  "confirmed": 4,
+  "confirmed": 3,
   "signals": [
     {
       "ticker": "DINO",
       "composite": 91,
       "prob": 95,
       "buffett": 65,
-      "mos": 10.7,
+      "mos": 8.9,
       "rs_rank": 0,
       "zones": {
-        "entry": 104.23,
-        "tp1": 108.76,
-        "tp2": 113.29,
-        "sl": 97.44
+        "entry": 105.95,
+        "tp1": 110.53,
+        "tp2": 115.11,
+        "sl": 99.08
       },
       "periods": [
         "3 Meses",
@@ -55,35 +55,17 @@
       "composite": 81,
       "prob": 95,
       "buffett": 50,
-      "mos": 20.8,
+      "mos": 20.9,
       "rs_rank": 0,
       "zones": {
-        "entry": 94.66,
-        "tp1": 96.26,
-        "tp2": 97.86,
-        "sl": 92.26
+        "entry": 94.58,
+        "tp1": 96.13,
+        "tp2": 97.68,
+        "sl": 92.25
       },
       "periods": [
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "FFIV",
-      "composite": 64,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -68.4,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 433.9,
-        "tp1": 447.79,
-        "tp2": 461.68,
-        "sl": 413.06
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses"
       ]
     }
   ],
@@ -119,7 +101,13 @@
       ]
     },
     {
-      "ticker": "MATX",
+      "ticker": "MU",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MU",
       "failed": [
         "Radar"
       ]
@@ -137,19 +125,13 @@
       ]
     },
     {
-      "ticker": "CLS",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "MU",
+      "ticker": "SCCO",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MU",
+      "ticker": "ENS",
       "failed": [
         "Radar"
       ]
