@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02 19:18:11 (Hora Colombia)",
+  "checked_at": "2026-10-02 20:00:33 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,36 +13,35 @@
   "confirmed": 2,
   "signals": [
     {
-      "ticker": "DINO",
-      "composite": 91,
-      "prob": 95,
-      "buffett": 65,
-      "mos": 8.9,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 105.95,
-        "tp1": 110.53,
-        "tp2": 115.11,
-        "sl": 99.08
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
       "ticker": "SHEL",
       "composite": 81,
       "prob": 95,
       "buffett": 50,
-      "mos": 20.9,
+      "mos": 20.2,
       "rs_rank": 0,
       "zones": {
-        "entry": 94.58,
-        "tp1": 96.13,
-        "tp2": 97.68,
-        "sl": 92.25
+        "entry": 95.15,
+        "tp1": 96.69,
+        "tp2": 98.23,
+        "sl": 92.84
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "BP",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 20,
+      "mos": -63.4,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 44.18,
+        "tp1": 45.25,
+        "tp2": 46.32,
+        "sl": 42.58
       },
       "periods": [
         "3 Meses",
@@ -64,6 +63,12 @@
       ]
     },
     {
+      "ticker": "PARR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "PBR",
       "failed": [
         "Radar"
@@ -94,6 +99,18 @@
       ]
     },
     {
+      "ticker": "APA",
+      "failed": [
+        "Entry Zones"
+      ]
+    },
+    {
+      "ticker": "DINO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "VLO",
       "failed": [
         "Radar"
@@ -106,37 +123,19 @@
       ]
     },
     {
-      "ticker": "SCCO",
+      "ticker": "PSX",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "VCTR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ENS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ALAB",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "LRCX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMAT",
+      "ticker": "MATX",
       "failed": [
         "Radar"
       ]
