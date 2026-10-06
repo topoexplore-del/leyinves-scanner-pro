@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-05 16:56:36 (Hora Colombia)",
+  "checked_at": "2026-10-05 21:16:12 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,42 +10,83 @@
     "drawdown_52w_pct": -0.14,
     "realized_vol_20d": 10.5
   },
-  "confirmed": 2,
+  "confirmed": 4,
   "signals": [
     {
-      "ticker": "SHEL",
-      "composite": 81,
+      "ticker": "VCTR",
+      "composite": 85,
       "prob": 95,
-      "buffett": 50,
-      "mos": 20.2,
-      "rs_rank": 0,
+      "buffett": 95,
+      "mos": -39.1,
+      "rs_rank": 95,
       "zones": {
-        "entry": 95.15,
-        "tp1": 96.69,
-        "tp2": 98.23,
-        "sl": 92.84
+        "entry": 112.08,
+        "tp1": 115.91,
+        "tp2": 119.74,
+        "sl": 106.33
       },
       "periods": [
+        "1 Semana",
         "3 Meses",
-        "6 Meses"
+        "6 Meses",
+        "1 A\u00f1o"
       ]
     },
     {
-      "ticker": "BP",
-      "composite": 66,
+      "ticker": "EXPD",
+      "composite": 85,
       "prob": 95,
-      "buffett": 20,
-      "mos": -63.4,
-      "rs_rank": 0,
+      "buffett": 50,
+      "mos": -73.9,
+      "rs_rank": 91,
       "zones": {
-        "entry": 44.18,
-        "tp1": 45.25,
-        "tp2": 46.32,
-        "sl": 42.58
+        "entry": 191.27,
+        "tp1": 195.26,
+        "tp2": 199.25,
+        "sl": 185.28
       },
       "periods": [
+        "1 Semana",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "QRVO",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 65,
+      "mos": -45.9,
+      "rs_rank": 96,
+      "zones": {
+        "entry": 112.9,
+        "tp1": 117.12,
+        "tp2": 121.34,
+        "sl": 106.57
+      },
+      "periods": [
+        "1 Mes",
         "3 Meses",
-        "6 Meses"
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "FFIV",
+      "composite": 64,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -69.5,
+      "rs_rank": 84,
+      "zones": {
+        "entry": 449.94,
+        "tp1": 463.61,
+        "tp2": 477.28,
+        "sl": 429.44
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
       ]
     }
   ],
@@ -99,13 +140,13 @@
       ]
     },
     {
-      "ticker": "APA",
+      "ticker": "DINO",
       "failed": [
-        "Entry Zones"
+        "Radar"
       ]
     },
     {
-      "ticker": "DINO",
+      "ticker": "ACN",
       "failed": [
         "Radar"
       ]
@@ -129,7 +170,7 @@
       ]
     },
     {
-      "ticker": "VCTR",
+      "ticker": "SCCO",
       "failed": [
         "Radar"
       ]
