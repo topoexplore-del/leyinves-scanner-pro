@@ -1,98 +1,65 @@
 {
-  "checked_at": "2026-10-06 19:30:58 (Hora Colombia)",
+  "checked_at": "2026-10-06 20:16:43 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 774.83,
-    "spy_sma200": 717.56,
-    "spy_vs_sma200_pct": 7.98,
-    "drawdown_52w_pct": -0.14,
-    "realized_vol_20d": 10.5
+    "spy_price": 779.09,
+    "spy_sma200": 718.13,
+    "spy_vs_sma200_pct": 8.49,
+    "drawdown_52w_pct": 0.0,
+    "realized_vol_20d": 10.4
   },
-  "confirmed": 4,
+  "confirmed": 2,
   "signals": [
     {
-      "ticker": "VCTR",
-      "composite": 85,
-      "prob": 95,
-      "buffett": 95,
-      "mos": -39.1,
-      "rs_rank": 95,
-      "zones": {
-        "entry": 112.08,
-        "tp1": 115.91,
-        "tp2": 119.74,
-        "sl": 106.33
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "EXPD",
-      "composite": 85,
-      "prob": 95,
-      "buffett": 50,
-      "mos": -73.9,
-      "rs_rank": 91,
-      "zones": {
-        "entry": 191.27,
-        "tp1": 195.26,
-        "tp2": 199.25,
-        "sl": 185.28
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "QRVO",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 65,
-      "mos": -45.9,
-      "rs_rank": 96,
-      "zones": {
-        "entry": 112.9,
-        "tp1": 117.12,
-        "tp2": 121.34,
-        "sl": 106.57
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "FFIV",
-      "composite": 64,
+      "ticker": "NEU",
+      "composite": 84,
       "prob": 95,
       "buffett": 85,
-      "mos": -69.5,
-      "rs_rank": 84,
+      "mos": -50.5,
+      "rs_rank": 90,
       "zones": {
-        "entry": 449.94,
-        "tp1": 463.61,
-        "tp2": 477.28,
-        "sl": 429.44
+        "entry": 917.74,
+        "tp1": 939.79,
+        "tp2": 961.84,
+        "sl": 884.66
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ENS",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 55,
+      "mos": -44.7,
+      "rs_rank": 52,
+      "zones": {
+        "entry": 191.27,
+        "tp1": 197.11,
+        "tp2": 202.95,
+        "sl": 182.51
       },
       "periods": [
         "1 Semana",
         "1 Mes",
-        "3 Meses"
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
   "watchlist": [
     {
       "ticker": "PBR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ACN",
       "failed": [
         "Radar"
       ]
@@ -140,13 +107,13 @@
       ]
     },
     {
-      "ticker": "DINO",
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ACN",
+      "ticker": "DINO",
       "failed": [
         "Radar"
       ]
@@ -170,13 +137,7 @@
       ]
     },
     {
-      "ticker": "SCCO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MATX",
+      "ticker": "VCTR",
       "failed": [
         "Radar"
       ]
