@@ -1,34 +1,55 @@
 {
-  "checked_at": "2026-10-08 20:51:05 (Hora Colombia)",
+  "checked_at": "2026-10-09 15:05:57 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 777.22,
-    "spy_sma200": 718.67,
-    "spy_vs_sma200_pct": 8.15,
-    "drawdown_52w_pct": -0.24,
-    "realized_vol_20d": 10.3
+    "spy_price": 778.54,
+    "spy_sma200": 719.66,
+    "spy_vs_sma200_pct": 8.18,
+    "drawdown_52w_pct": -0.07,
+    "realized_vol_20d": 9.9
   },
-  "confirmed": 4,
+  "confirmed": 6,
   "signals": [
     {
-      "ticker": "ANET",
-      "composite": 80,
+      "ticker": "SMCI",
+      "composite": 96,
       "prob": 95,
-      "buffett": 70,
-      "mos": -86.6,
-      "rs_rank": 0,
+      "buffett": 55,
+      "mos": -20.9,
+      "rs_rank": 96,
       "zones": {
-        "entry": 213.74,
-        "tp1": 220.7,
-        "tp2": 227.66,
-        "sl": 203.3
+        "entry": 42.07,
+        "tp1": 44.39,
+        "tp2": 46.71,
+        "sl": 38.59
       },
       "periods": [
         "1 Semana",
         "1 Mes",
-        "3 Meses"
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -82.2,
+      "rs_rank": 84,
+      "zones": {
+        "entry": 228.75,
+        "tp1": 234.5,
+        "tp2": 240.25,
+        "sl": 220.12
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
       ]
     },
     {
@@ -43,6 +64,26 @@
         "tp1": 3.21,
         "tp2": 3.3,
         "sl": 2.99
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "PWR",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 35,
+      "mos": -83.6,
+      "rs_rank": 78,
+      "zones": {
+        "entry": 678.04,
+        "tp1": 702.35,
+        "tp2": 726.66,
+        "sl": 641.57
       },
       "periods": [
         "1 Semana",
@@ -110,12 +151,6 @@
       ]
     },
     {
-      "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "MU",
       "failed": [
         "Radar"
@@ -170,13 +205,19 @@
       ]
     },
     {
-      "ticker": "ALAB",
+      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "LRCX",
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ALAB",
       "failed": [
         "Radar"
       ]
