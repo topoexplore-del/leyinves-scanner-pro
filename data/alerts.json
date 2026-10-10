@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09 19:38:00 (Hora Colombia)",
+  "checked_at": "2026-10-09 20:35:46 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,7 +10,7 @@
     "drawdown_52w_pct": -0.66,
     "realized_vol_20d": 10.2
   },
-  "confirmed": 6,
+  "confirmed": 13,
   "signals": [
     {
       "ticker": "SMCI",
@@ -28,6 +28,67 @@
       "periods": [
         "1 Semana",
         "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "composite": 96,
+      "prob": 95,
+      "buffett": 55,
+      "mos": -20.9,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 42.07,
+        "tp1": 44.39,
+        "tp2": 46.71,
+        "sl": 38.59
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "APA",
+      "composite": 94,
+      "prob": 95,
+      "buffett": 95,
+      "mos": 1.5,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 44.99,
+        "tp1": 46.59,
+        "tp2": 48.19,
+        "sl": 42.59
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "CBOE",
+      "composite": 90,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -56.9,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 290.61,
+        "tp1": 302.18,
+        "tp2": 313.75,
+        "sl": 273.25
+      },
+      "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
@@ -53,17 +114,56 @@
       ]
     },
     {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 14.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 99.67,
+        "tp1": 101.44,
+        "tp2": 103.21,
+        "sl": 97.02
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "PGNY",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -60.3,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 27.55,
+        "tp1": 28.47,
+        "tp2": 29.39,
+        "sl": 26.17
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
       "ticker": "ABEV",
       "composite": 79,
       "prob": 95,
       "buffett": 90,
-      "mos": -31.2,
+      "mos": -32.1,
       "rs_rank": 0,
       "zones": {
-        "entry": 3.12,
-        "tp1": 3.21,
-        "tp2": 3.3,
-        "sl": 2.99
+        "entry": 3.16,
+        "tp1": 3.25,
+        "tp2": 3.34,
+        "sl": 3.03
       },
       "periods": [
         "1 Semana",
@@ -93,17 +193,38 @@
       ]
     },
     {
-      "ticker": "ON",
-      "composite": 56,
+      "ticker": "MTSI",
+      "composite": 71,
       "prob": 95,
-      "buffett": 70,
-      "mos": -69.2,
+      "buffett": 75,
+      "mos": -88.1,
       "rs_rank": 0,
       "zones": {
-        "entry": 81.47,
-        "tp1": 84.93,
-        "tp2": 88.39,
-        "sl": 76.28
+        "entry": 317.35,
+        "tp1": 333.56,
+        "tp2": 349.77,
+        "sl": 293.04
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "BP",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 20,
+      "mos": -65.2,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 46.02,
+        "tp1": 47.15,
+        "tp2": 48.28,
+        "sl": 44.33
       },
       "periods": [
         "1 Semana",
@@ -112,22 +233,39 @@
       ]
     },
     {
-      "ticker": "ON",
-      "composite": 56,
+      "ticker": "ADI",
+      "composite": 61,
       "prob": 95,
-      "buffett": 70,
-      "mos": -69.2,
+      "buffett": 60,
+      "mos": -71.8,
       "rs_rank": 0,
       "zones": {
-        "entry": 81.47,
-        "tp1": 84.93,
-        "tp2": 88.39,
-        "sl": 76.28
+        "entry": 402.59,
+        "tp1": 413.73,
+        "tp2": 424.87,
+        "sl": 385.88
       },
       "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -71.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 402.59,
+        "tp1": 413.73,
+        "tp2": 424.87,
+        "sl": 385.88
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
       ]
     }
   ],
@@ -139,25 +277,13 @@
       ]
     },
     {
+      "ticker": "EOG",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MU",
       "failed": [
         "Radar"
       ]
@@ -181,6 +307,12 @@
       ]
     },
     {
+      "ticker": "DLO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "PBYI",
       "failed": [
         "Radar"
@@ -193,13 +325,13 @@
       ]
     },
     {
-      "ticker": "LLY",
+      "ticker": "SCCO",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
-      "ticker": "SHEL",
+      "ticker": "FMX",
       "failed": [
         "Radar"
       ]
@@ -218,6 +350,12 @@
     },
     {
       "ticker": "ALAB",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
       "failed": [
         "Radar"
       ]
