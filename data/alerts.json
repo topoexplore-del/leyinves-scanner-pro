@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-10-12 22:03:21 (Hora Colombia)",
+  "checked_at": "2026-10-13 15:36:51 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 778.1,
-    "spy_sma200": 720.14,
-    "spy_vs_sma200_pct": 8.05,
-    "drawdown_52w_pct": -0.13,
-    "realized_vol_20d": 9.8
+    "spy_price": 778.01,
+    "spy_sma200": 720.6,
+    "spy_vs_sma200_pct": 7.97,
+    "drawdown_52w_pct": -0.14,
+    "realized_vol_20d": 9.5
   },
-  "confirmed": 3,
+  "confirmed": 4,
   "signals": [
     {
       "ticker": "CBOE",
@@ -72,6 +72,24 @@
         "3 Meses",
         "6 Meses"
       ]
+    },
+    {
+      "ticker": "ANET",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -86.3,
+      "rs_rank": 93,
+      "zones": {
+        "entry": 208.79,
+        "tp1": 215.74,
+        "tp2": 222.69,
+        "sl": 198.36
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
     }
   ],
   "watchlist": [
@@ -89,12 +107,6 @@
     },
     {
       "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SMCI",
       "failed": [
         "Radar"
       ]
@@ -161,6 +173,12 @@
     },
     {
       "ticker": "VCTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SCCO",
       "failed": [
         "Radar"
       ]
