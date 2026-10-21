@@ -1,67 +1,66 @@
 {
-  "checked_at": "2026-10-20 18:43:57 (Hora Colombia)",
+  "checked_at": "2026-10-20 19:30:14 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 769.05,
-    "spy_sma200": 722.78,
-    "spy_vs_sma200_pct": 6.4,
-    "drawdown_52w_pct": -1.29,
-    "realized_vol_20d": 9.0
+    "spy_price": 766.48,
+    "spy_sma200": 722.33,
+    "spy_vs_sma200_pct": 6.11,
+    "drawdown_52w_pct": -1.62,
+    "realized_vol_20d": 8.9
   },
-  "confirmed": 5,
+  "confirmed": 4,
   "signals": [
     {
-      "ticker": "EXPD",
-      "composite": 85,
+      "ticker": "MNST",
+      "composite": 74,
       "prob": 95,
-      "buffett": 50,
-      "mos": -74.4,
+      "buffett": 85,
+      "mos": -77.0,
       "rs_rank": 0,
       "zones": {
-        "entry": 194.69,
-        "tp1": 198.75,
-        "tp2": 202.81,
-        "sl": 188.6
+        "entry": 46.48,
+        "tp1": 47.56,
+        "tp2": 48.64,
+        "sl": 44.86
       },
       "periods": [
-        "3 Meses"
+        "1 Semana",
+        "1 Mes"
       ]
     },
     {
-      "ticker": "AR",
-      "composite": 81,
+      "ticker": "CVX",
+      "composite": 71,
       "prob": 95,
       "buffett": 60,
-      "mos": 18.9,
+      "mos": -33.0,
       "rs_rank": 0,
       "zones": {
-        "entry": 38.3,
-        "tp1": 39.46,
-        "tp2": 40.62,
-        "sl": 36.56
+        "entry": 223.05,
+        "tp1": 227.45,
+        "tp2": 231.85,
+        "sl": 216.45
       },
       "periods": [
         "1 Semana",
         "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "3 Meses"
       ]
     },
     {
-      "ticker": "ABEV",
-      "composite": 79,
+      "ticker": "NUE",
+      "composite": 71,
       "prob": 95,
-      "buffett": 90,
-      "mos": -33.3,
+      "buffett": 45,
+      "mos": -36.4,
       "rs_rank": 0,
       "zones": {
-        "entry": 3.27,
-        "tp1": 3.35,
-        "tp2": 3.43,
-        "sl": 3.15
+        "entry": 258.52,
+        "tp1": 265.89,
+        "tp2": 273.26,
+        "sl": 247.46
       },
       "periods": [
         "1 Semana",
@@ -71,37 +70,19 @@
       ]
     },
     {
-      "ticker": "MNST",
-      "composite": 74,
+      "ticker": "FFIV",
+      "composite": 64,
       "prob": 95,
       "buffett": 85,
-      "mos": -76.4,
+      "mos": -69.3,
       "rs_rank": 0,
       "zones": {
-        "entry": 45.43,
-        "tp1": 46.44,
-        "tp2": 47.45,
-        "sl": 43.91
+        "entry": 446.46,
+        "tp1": 460.93,
+        "tp2": 475.4,
+        "sl": 424.75
       },
       "periods": [
-        "1 Semana"
-      ]
-    },
-    {
-      "ticker": "A",
-      "composite": 69,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -68.4,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 171.59,
-        "tp1": 176.2,
-        "tp2": 180.81,
-        "sl": 164.68
-      },
-      "periods": [
-        "1 Mes",
         "3 Meses"
       ]
     }
@@ -128,13 +109,7 @@
     {
       "ticker": "VIST",
       "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "CINF",
-      "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -174,27 +149,33 @@
       ]
     },
     {
+      "ticker": "STZ",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "PBYI",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "DLTR",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "EXPE",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "VCTR",
+      "ticker": "STLD",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "SEZL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ROST",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
