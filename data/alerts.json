@@ -1,66 +1,110 @@
 {
-  "checked_at": "2026-10-21 18:59:47 (Hora Colombia)",
+  "checked_at": "2026-10-21 19:31:47 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 773.09,
-    "spy_sma200": 723.24,
-    "spy_vs_sma200_pct": 6.89,
-    "drawdown_52w_pct": -0.77,
-    "realized_vol_20d": 8.8
+    "spy_price": 769.05,
+    "spy_sma200": 722.78,
+    "spy_vs_sma200_pct": 6.4,
+    "drawdown_52w_pct": -1.29,
+    "realized_vol_20d": 9.0
   },
-  "confirmed": 4,
+  "confirmed": 7,
   "signals": [
     {
-      "ticker": "MNST",
-      "composite": 74,
+      "ticker": "CBOE",
+      "composite": 90,
       "prob": 95,
       "buffett": 85,
-      "mos": -77.0,
+      "mos": -60.4,
       "rs_rank": 0,
       "zones": {
-        "entry": 46.48,
-        "tp1": 47.56,
-        "tp2": 48.64,
-        "sl": 44.86
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes"
-      ]
-    },
-    {
-      "ticker": "CVX",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 60,
-      "mos": -33.0,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 223.05,
-        "tp1": 227.45,
-        "tp2": 231.85,
-        "sl": 216.45
+        "entry": 311.56,
+        "tp1": 323.03,
+        "tp2": 334.5,
+        "sl": 294.36
       },
       "periods": [
         "1 Semana",
         "1 Mes",
-        "3 Meses"
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
       ]
     },
     {
-      "ticker": "NUE",
-      "composite": 71,
+      "ticker": "AR",
+      "composite": 81,
       "prob": 95,
-      "buffett": 45,
-      "mos": -36.4,
+      "buffett": 60,
+      "mos": 18.3,
       "rs_rank": 0,
       "zones": {
-        "entry": 258.52,
-        "tp1": 265.89,
-        "tp2": 273.26,
-        "sl": 247.46
+        "entry": 38.48,
+        "tp1": 39.64,
+        "tp2": 40.8,
+        "sl": 36.74
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "MATX",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -25.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 235.17,
+        "tp1": 242.17,
+        "tp2": 249.17,
+        "sl": 224.67
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "PGNY",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -61.3,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 28.29,
+        "tp1": 29.24,
+        "tp2": 30.19,
+        "sl": 26.86
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "ABEV",
+      "composite": 79,
+      "prob": 95,
+      "buffett": 90,
+      "mos": -33.6,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 3.3,
+        "tp1": 3.38,
+        "tp2": 3.46,
+        "sl": 3.18
       },
       "periods": [
         "1 Semana",
@@ -70,17 +114,35 @@
       ]
     },
     {
+      "ticker": "KOF",
+      "composite": 65,
+      "prob": 95,
+      "buffett": 55,
+      "mos": -78.4,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 117.39,
+        "tp1": 120.39,
+        "tp2": 123.39,
+        "sl": 112.89
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes"
+      ]
+    },
+    {
       "ticker": "FFIV",
       "composite": 64,
       "prob": 95,
       "buffett": 85,
-      "mos": -69.3,
+      "mos": -69.7,
       "rs_rank": 0,
       "zones": {
-        "entry": 446.46,
-        "tp1": 460.93,
-        "tp2": 475.4,
-        "sl": 424.75
+        "entry": 452.26,
+        "tp1": 467.09,
+        "tp2": 481.92,
+        "sl": 430.01
       },
       "periods": [
         "3 Meses"
@@ -137,19 +199,7 @@
       ]
     },
     {
-      "ticker": "CBOE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VLO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "STZ",
+      "ticker": "ACN",
       "failed": [
         "Radar"
       ]
@@ -167,15 +217,27 @@
       ]
     },
     {
+      "ticker": "VCTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "SEZL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ROST",
+      "ticker": "PAC",
       "failed": [
-        "Analysis"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FMX",
+      "failed": [
+        "Radar"
       ]
     }
   ]
