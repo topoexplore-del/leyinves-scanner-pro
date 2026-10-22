@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-21 19:31:47 (Hora Colombia)",
+  "checked_at": "2026-10-22 14:08:56 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 769.05,
-    "spy_sma200": 722.78,
-    "spy_vs_sma200_pct": 6.4,
-    "drawdown_52w_pct": -1.29,
-    "realized_vol_20d": 9.0
+    "spy_price": 761.83,
+    "spy_sma200": 723.61,
+    "spy_vs_sma200_pct": 5.28,
+    "drawdown_52w_pct": -2.22,
+    "realized_vol_20d": 10.3
   },
   "confirmed": 7,
   "signals": [
@@ -205,6 +205,12 @@
       ]
     },
     {
+      "ticker": "RELY",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "PBYI",
       "failed": [
         "Radar"
@@ -230,12 +236,6 @@
     },
     {
       "ticker": "PAC",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FMX",
       "failed": [
         "Radar"
       ]
