@@ -1,36 +1,32 @@
 {
-  "checked_at": "2026-10-22 18:58:25 (Hora Colombia)",
+  "checked_at": "2026-10-22 19:30:47 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 763.96,
-    "spy_sma200": 723.62,
-    "spy_vs_sma200_pct": 5.57,
-    "drawdown_52w_pct": -1.94,
-    "realized_vol_20d": 9.8
+    "spy_price": 773.09,
+    "spy_sma200": 723.24,
+    "spy_vs_sma200_pct": 6.89,
+    "drawdown_52w_pct": -0.77,
+    "realized_vol_20d": 8.8
   },
-  "confirmed": 7,
+  "confirmed": 5,
   "signals": [
     {
-      "ticker": "CBOE",
-      "composite": 90,
+      "ticker": "EXPD",
+      "composite": 85,
       "prob": 95,
-      "buffett": 85,
-      "mos": -60.4,
+      "buffett": 50,
+      "mos": -74.5,
       "rs_rank": 0,
       "zones": {
-        "entry": 311.56,
-        "tp1": 323.03,
-        "tp2": 334.5,
-        "sl": 294.36
+        "entry": 195.89,
+        "tp1": 199.63,
+        "tp2": 203.37,
+        "sl": 190.28
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "3 Meses"
       ]
     },
     {
@@ -38,13 +34,13 @@
       "composite": 81,
       "prob": 95,
       "buffett": 60,
-      "mos": 18.3,
+      "mos": 20.2,
       "rs_rank": 0,
       "zones": {
-        "entry": 38.48,
-        "tp1": 39.64,
-        "tp2": 40.8,
-        "sl": 36.74
+        "entry": 38.17,
+        "tp1": 39.31,
+        "tp2": 40.45,
+        "sl": 36.46
       },
       "periods": [
         "1 Semana",
@@ -55,56 +51,17 @@
       ]
     },
     {
-      "ticker": "MATX",
-      "composite": 81,
+      "ticker": "BP",
+      "composite": 66,
       "prob": 95,
-      "buffett": 60,
-      "mos": -25.8,
+      "buffett": 20,
+      "mos": -67.5,
       "rs_rank": 0,
       "zones": {
-        "entry": 235.17,
-        "tp1": 242.17,
-        "tp2": 249.17,
-        "sl": 224.67
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "PGNY",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 60,
-      "mos": -61.3,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 28.29,
-        "tp1": 29.24,
-        "tp2": 30.19,
-        "sl": 26.86
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "ABEV",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -33.6,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 3.3,
-        "tp1": 3.38,
-        "tp2": 3.46,
-        "sl": 3.18
+        "entry": 49.51,
+        "tp1": 50.65,
+        "tp2": 51.79,
+        "sl": 47.8
       },
       "periods": [
         "1 Semana",
@@ -114,37 +71,38 @@
       ]
     },
     {
-      "ticker": "KOF",
-      "composite": 65,
+      "ticker": "ADI",
+      "composite": 61,
       "prob": 95,
-      "buffett": 55,
-      "mos": -78.4,
+      "buffett": 60,
+      "mos": -71.8,
       "rs_rank": 0,
       "zones": {
-        "entry": 117.39,
-        "tp1": 120.39,
-        "tp2": 123.39,
-        "sl": 112.89
+        "entry": 402.19,
+        "tp1": 414.75,
+        "tp2": 427.31,
+        "sl": 383.35
       },
       "periods": [
-        "1 Semana",
-        "1 Mes"
+        "1 Mes",
+        "3 Meses"
       ]
     },
     {
-      "ticker": "FFIV",
-      "composite": 64,
+      "ticker": "ADI",
+      "composite": 61,
       "prob": 95,
-      "buffett": 85,
-      "mos": -69.7,
+      "buffett": 60,
+      "mos": -71.8,
       "rs_rank": 0,
       "zones": {
-        "entry": 452.26,
-        "tp1": 467.09,
-        "tp2": 481.92,
-        "sl": 430.01
+        "entry": 402.19,
+        "tp1": 414.75,
+        "tp2": 427.31,
+        "sl": 383.35
       },
       "periods": [
+        "1 Mes",
         "3 Meses"
       ]
     }
@@ -199,7 +157,31 @@
       ]
     },
     {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "ACN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VLO",
+      "failed": [
+        "Entry Zones"
+      ]
+    },
+    {
+      "ticker": "STZ",
       "failed": [
         "Radar"
       ]
@@ -212,30 +194,6 @@
     },
     {
       "ticker": "PBYI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "STLD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VCTR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SEZL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PAC",
       "failed": [
         "Radar"
       ]
