@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-10-23 19:20:08 (Hora Colombia)",
+  "checked_at": "2026-10-26 15:24:26 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 759.97,
-    "spy_sma200": 724.0,
-    "spy_vs_sma200_pct": 4.97,
-    "drawdown_52w_pct": -2.45,
+    "spy_price": 765.37,
+    "spy_sma200": 724.41,
+    "spy_vs_sma200_pct": 5.65,
+    "drawdown_52w_pct": -1.76,
     "realized_vol_20d": 9.8
   },
   "confirmed": 3,
