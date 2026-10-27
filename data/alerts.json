@@ -1,16 +1,35 @@
 {
-  "checked_at": "2026-10-26 20:14:11 (Hora Colombia)",
+  "checked_at": "2026-10-27 14:58:22 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 759.97,
-    "spy_sma200": 724.0,
-    "spy_vs_sma200_pct": 4.97,
-    "drawdown_52w_pct": -2.45,
-    "realized_vol_20d": 9.8
+    "spy_price": 770.16,
+    "spy_sma200": 724.82,
+    "spy_vs_sma200_pct": 6.26,
+    "drawdown_52w_pct": -1.15,
+    "realized_vol_20d": 10.0
   },
   "confirmed": 0,
   "signals": [],
-  "watchlist": []
+  "watchlist": [
+    {
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SARO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EWW",
+      "failed": [
+        "Analysis"
+      ]
+    }
+  ]
 }
