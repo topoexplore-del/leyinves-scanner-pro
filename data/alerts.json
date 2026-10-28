@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27 19:22:07 (Hora Colombia)",
+  "checked_at": "2026-10-27 20:09:34 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,25 +10,134 @@
     "drawdown_52w_pct": -1.76,
     "realized_vol_20d": 9.8
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 2,
+  "signals": [
+    {
+      "ticker": "ADI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -71.9,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 403.9,
+        "tp1": 417.34,
+        "tp2": 430.78,
+        "sl": 383.74
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -71.9,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 403.9,
+        "tp1": 417.34,
+        "tp2": 430.78,
+        "sl": 383.74
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
-      "ticker": "PLTR",
+      "ticker": "EOG",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SARO",
+      "ticker": "CF",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "EWW",
+      "ticker": "VIST",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CINF",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "APA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EC",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DINO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PBYI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SEZL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CBOE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "RL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "FMX",
+      "failed": [
+        "Earnings en 1d (blackout)"
       ]
     }
   ]
