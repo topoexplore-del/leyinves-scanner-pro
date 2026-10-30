@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29 19:43:56 (Hora Colombia)",
+  "checked_at": "2026-10-29 20:41:35 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,80 +10,116 @@
     "drawdown_52w_pct": -0.87,
     "realized_vol_20d": 10.0
   },
-  "confirmed": 4,
+  "confirmed": 6,
   "signals": [
     {
-      "ticker": "A",
-      "composite": 69,
+      "ticker": "STLD",
+      "composite": 86,
       "prob": 95,
-      "buffett": 85,
-      "mos": -68.9,
+      "buffett": 65,
+      "mos": -42.0,
       "rs_rank": 0,
       "zones": {
-        "entry": 176.01,
-        "tp1": 180.94,
-        "tp2": 185.87,
-        "sl": 168.61
+        "entry": 247.3,
+        "tp1": 256.28,
+        "tp2": 265.26,
+        "sl": 233.83
       },
       "periods": [
-        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -70.8,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 527.77,
+        "tp1": 538.57,
+        "tp2": 549.37,
+        "sl": 511.57
+      },
+      "periods": [
         "3 Meses"
       ]
     },
     {
-      "ticker": "FFIV",
-      "composite": 64,
+      "ticker": "ADI",
+      "composite": 61,
       "prob": 95,
-      "buffett": 85,
-      "mos": -69.9,
+      "buffett": 60,
+      "mos": -73.3,
       "rs_rank": 0,
       "zones": {
-        "entry": 454.99,
-        "tp1": 469.57,
-        "tp2": 484.15,
-        "sl": 433.12
+        "entry": 424.2,
+        "tp1": 437.75,
+        "tp2": 451.3,
+        "sl": 403.88
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -73.3,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 424.2,
+        "tp1": 437.75,
+        "tp2": 451.3,
+        "sl": 403.88
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "LQDT",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 50,
+      "mos": -70.0,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 43.5,
+        "tp1": 44.63,
+        "tp2": 45.76,
+        "sl": 41.8
+      },
+      "periods": [
+        "1 Mes"
+      ]
+    },
+    {
+      "ticker": "IEX",
+      "composite": 60,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -60.6,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 236.89,
+        "tp1": 242.39,
+        "tp2": 247.89,
+        "sl": 228.64
       },
       "periods": [
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "ADI",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 60,
-      "mos": -73.0,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 421.19,
-        "tp1": 435.05,
-        "tp2": 448.91,
-        "sl": 400.4
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "ADI",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 60,
-      "mos": -73.0,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 421.19,
-        "tp1": 435.05,
-        "tp2": 448.91,
-        "sl": 400.4
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
       ]
     }
   ],
@@ -107,9 +143,9 @@
       ]
     },
     {
-      "ticker": "BWMX",
+      "ticker": "FHI",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -127,23 +163,17 @@
     {
       "ticker": "SM",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
+        "Earnings en 5d (blackout)"
       ]
     },
     {
       "ticker": "ACN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PIPR",
       "failed": [
         "Radar"
       ]
@@ -155,13 +185,13 @@
       ]
     },
     {
-      "ticker": "PBYI",
+      "ticker": "AMG",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "STLD",
+      "ticker": "PBYI",
       "failed": [
         "Radar"
       ]
@@ -176,6 +206,12 @@
       "ticker": "SEZL",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "SHC",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
