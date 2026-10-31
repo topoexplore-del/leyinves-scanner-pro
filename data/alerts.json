@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30 19:36:03 (Hora Colombia)",
+  "checked_at": "2026-10-30 20:24:12 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,22 +10,23 @@
     "drawdown_52w_pct": -1.25,
     "realized_vol_20d": 10.1
   },
-  "confirmed": 6,
+  "confirmed": 5,
   "signals": [
     {
-      "ticker": "STLD",
-      "composite": 86,
+      "ticker": "AR",
+      "composite": 91,
       "prob": 95,
-      "buffett": 65,
-      "mos": -42.0,
+      "buffett": 85,
+      "mos": 28.5,
       "rs_rank": 0,
       "zones": {
-        "entry": 247.3,
-        "tp1": 256.28,
-        "tp2": 265.26,
-        "sl": 233.83
+        "entry": 40.8,
+        "tp1": 42.13,
+        "tp2": 43.46,
+        "sl": 38.8
       },
       "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -37,68 +38,50 @@
       "composite": 85,
       "prob": 95,
       "buffett": 85,
-      "mos": -70.8,
+      "mos": -68.8,
       "rs_rank": 0,
       "zones": {
-        "entry": 527.77,
-        "tp1": 538.57,
-        "tp2": 549.37,
-        "sl": 511.57
+        "entry": 526.67,
+        "tp1": 538.25,
+        "tp2": 549.83,
+        "sl": 509.3
       },
       "periods": [
         "3 Meses"
       ]
     },
     {
-      "ticker": "ADI",
-      "composite": 61,
+      "ticker": "CHE",
+      "composite": 79,
       "prob": 95,
-      "buffett": 60,
-      "mos": -73.3,
+      "buffett": 55,
+      "mos": -67.5,
       "rs_rank": 0,
       "zones": {
-        "entry": 424.2,
-        "tp1": 437.75,
-        "tp2": 451.3,
-        "sl": 403.88
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "ADI",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 60,
-      "mos": -73.3,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 424.2,
-        "tp1": 437.75,
-        "tp2": 451.3,
-        "sl": 403.88
+        "entry": 537.47,
+        "tp1": 552.31,
+        "tp2": 567.15,
+        "sl": 515.21
       },
       "periods": [
         "1 Semana",
         "1 Mes",
-        "3 Meses"
+        "3 Meses",
+        "6 Meses"
       ]
     },
     {
-      "ticker": "LQDT",
-      "composite": 61,
+      "ticker": "MNST",
+      "composite": 74,
       "prob": 95,
-      "buffett": 50,
-      "mos": -70.0,
+      "buffett": 85,
+      "mos": -76.7,
       "rs_rank": 0,
       "zones": {
-        "entry": 43.5,
-        "tp1": 44.63,
-        "tp2": 45.76,
-        "sl": 41.8
+        "entry": 46.05,
+        "tp1": 47.06,
+        "tp2": 48.07,
+        "sl": 44.53
       },
       "periods": [
         "1 Mes"
@@ -109,15 +92,16 @@
       "composite": 60,
       "prob": 95,
       "buffett": 70,
-      "mos": -60.6,
+      "mos": -60.7,
       "rs_rank": 0,
       "zones": {
-        "entry": 236.89,
-        "tp1": 242.39,
-        "tp2": 247.89,
-        "sl": 228.64
+        "entry": 237.61,
+        "tp1": 243.35,
+        "tp2": 249.09,
+        "sl": 229.0
       },
       "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses"
       ]
@@ -131,15 +115,27 @@
       ]
     },
     {
+      "ticker": "CROX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "CF",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "VIST",
+      "ticker": "GEN",
       "failed": [
-        "Radar"
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BWMX",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -161,9 +157,27 @@
       ]
     },
     {
+      "ticker": "SHEL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "SM",
       "failed": [
-        "Earnings en 5d (blackout)"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -173,43 +187,13 @@
       ]
     },
     {
-      "ticker": "PIPR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CBOE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMG",
+      "ticker": "QNST",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "PBYI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VCTR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SEZL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SHC",
+      "ticker": "AMG",
       "failed": [
         "Analysis"
       ]
