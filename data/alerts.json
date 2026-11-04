@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-11-03 20:59:38 (Hora Colombia)",
+  "checked_at": "2026-11-04 16:09:49 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 752.1,
-    "spy_sma200": 726.31,
-    "spy_vs_sma200_pct": 3.55,
-    "drawdown_52w_pct": -3.46,
-    "realized_vol_20d": 11.3
+    "spy_price": 766.81,
+    "spy_sma200": 727.12,
+    "spy_vs_sma200_pct": 5.46,
+    "drawdown_52w_pct": -1.58,
+    "realized_vol_20d": 12.8
   },
   "confirmed": 7,
   "signals": [
@@ -217,12 +217,6 @@
       ]
     },
     {
-      "ticker": "RELY",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "KFRC",
       "failed": [
         "Analysis"
@@ -232,6 +226,12 @@
       "ticker": "EXPE",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "STLD",
+      "failed": [
+        "Radar"
       ]
     }
   ]
