@@ -1,48 +1,50 @@
 {
-  "checked_at": "2026-11-04 16:09:49 (Hora Colombia)",
+  "checked_at": "2026-11-04 21:05:43 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 766.81,
-    "spy_sma200": 727.12,
-    "spy_vs_sma200_pct": 5.46,
-    "drawdown_52w_pct": -1.58,
-    "realized_vol_20d": 12.8
+    "spy_price": 754.35,
+    "spy_sma200": 726.65,
+    "spy_vs_sma200_pct": 3.81,
+    "drawdown_52w_pct": -3.18,
+    "realized_vol_20d": 11.1
   },
-  "confirmed": 7,
+  "confirmed": 6,
   "signals": [
     {
-      "ticker": "XOM",
-      "composite": 81,
+      "ticker": "FHI",
+      "composite": 88,
       "prob": 95,
-      "buffett": 60,
-      "mos": -33.6,
+      "buffett": 100,
+      "mos": -23.2,
       "rs_rank": 0,
       "zones": {
-        "entry": 178.4,
-        "tp1": 182.63,
-        "tp2": 186.86,
-        "sl": 172.06
+        "entry": 61.67,
+        "tp1": 63.3,
+        "tp2": 64.93,
+        "sl": 59.23
       },
       "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
-        "6 Meses"
+        "6 Meses",
+        "1 A\u00f1o"
       ]
     },
     {
-      "ticker": "MDLZ",
-      "composite": 81,
+      "ticker": "EXPD",
+      "composite": 85,
       "prob": 95,
-      "buffett": 35,
-      "mos": -41.8,
+      "buffett": 50,
+      "mos": -72.3,
       "rs_rank": 0,
       "zones": {
-        "entry": 65.96,
-        "tp1": 67.36,
-        "tp2": 68.76,
-        "sl": 63.86
+        "entry": 202.99,
+        "tp1": 207.38,
+        "tp2": 211.77,
+        "sl": 196.41
       },
       "periods": [
         "1 Semana",
@@ -55,87 +57,66 @@
       "composite": 80,
       "prob": 95,
       "buffett": 85,
-      "mos": -80.0,
+      "mos": -80.7,
       "rs_rank": 0,
       "zones": {
-        "entry": 299.09,
-        "tp1": 308.84,
-        "tp2": 318.59,
-        "sl": 284.46
+        "entry": 309.46,
+        "tp1": 319.57,
+        "tp2": 329.68,
+        "sl": 294.29
       },
       "periods": [
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "VRTX",
-      "composite": 73,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -71.0,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 548.4,
-        "tp1": 564.22,
-        "tp2": 580.04,
-        "sl": 524.67
-      },
-      "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses"
-      ]
-    },
-    {
-      "ticker": "BF-B",
-      "composite": 69,
-      "prob": 95,
-      "buffett": 95,
-      "mos": -42.1,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 29.75,
-        "tp1": 30.59,
-        "tp2": 31.43,
-        "sl": 28.49
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
       ]
     },
     {
       "ticker": "IEX",
       "composite": 60,
-      "prob": 79,
+      "prob": 82,
       "buffett": 70,
-      "mos": -60.3,
+      "mos": -60.4,
       "rs_rank": 0,
       "zones": {
-        "entry": 234.77,
-        "tp1": 240.59,
-        "tp2": 246.41,
-        "sl": 226.04
+        "entry": 235.65,
+        "tp1": 241.35,
+        "tp2": 247.05,
+        "sl": 227.1
       },
       "periods": [
         "3 Meses",
         "6 Meses"
+      ]
+    },
+    {
+      "ticker": "KOF",
+      "composite": 59,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -77.1,
+      "rs_rank": 0,
+      "zones": {
+        "entry": 115.53,
+        "tp1": 118.48,
+        "tp2": 121.43,
+        "sl": 111.11
+      },
+      "periods": [
+        "1 Semana"
       ]
     },
     {
       "ticker": "EL",
       "composite": 56,
       "prob": 95,
-      "buffett": 25,
-      "mos": -84.9,
+      "buffett": 35,
+      "mos": -85.0,
       "rs_rank": 0,
       "zones": {
-        "entry": 103.59,
-        "tp1": 107.53,
-        "tp2": 111.47,
-        "sl": 97.68
+        "entry": 104.23,
+        "tp1": 108.08,
+        "tp2": 111.93,
+        "sl": 98.45
       },
       "periods": [
         "3 Meses",
@@ -147,11 +128,23 @@
     {
       "ticker": "EOG",
       "failed": [
-        "Earnings en 2d (blackout)"
+        "Radar"
       ]
     },
     {
       "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ALL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CTSH",
       "failed": [
         "Radar"
       ]
@@ -163,25 +156,7 @@
       ]
     },
     {
-      "ticker": "APA",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
       "ticker": "SHEL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "OKE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AR",
       "failed": [
         "Radar"
       ]
@@ -205,19 +180,7 @@
       ]
     },
     {
-      "ticker": "FHI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "QNST",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "KFRC",
       "failed": [
         "Analysis"
       ]
@@ -232,6 +195,24 @@
       "ticker": "STLD",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "VCTR",
+      "failed": [
+        "Earnings en 0d (blackout)"
+      ]
+    },
+    {
+      "ticker": "SEZL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AFL",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
