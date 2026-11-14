@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13 16:18:49 (Hora Colombia)",
+  "checked_at": "2026-11-13 21:04:02 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,7 +10,7 @@
     "drawdown_52w_pct": -3.17,
     "realized_vol_20d": 22.1
   },
-  "confirmed": 2,
+  "confirmed": 1,
   "signals": [
     {
       "ticker": "ANET",
@@ -18,7 +18,7 @@
       "prob": 95,
       "buffett": 70,
       "mos": -84.0,
-      "rs_rank": 91,
+      "rs_rank": 80,
       "zones": {
         "entry": 203.15,
         "tp1": 214.76,
@@ -32,25 +32,6 @@
         "6 Meses",
         "1 A\u00f1o"
       ]
-    },
-    {
-      "ticker": "CHE",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 55,
-      "mos": -67.9,
-      "rs_rank": 0,
-      "zones": {
-        "entry": 545.89,
-        "tp1": 561.65,
-        "tp2": 577.41,
-        "sl": 522.25
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
     }
   ],
   "watchlist": [
@@ -61,19 +42,7 @@
       ]
     },
     {
-      "ticker": "NEM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CTSH",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DECK",
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
@@ -103,13 +72,13 @@
       ]
     },
     {
-      "ticker": "ACN",
+      "ticker": "FHI",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "FHI",
+      "ticker": "TXN",
       "failed": [
         "Radar"
       ]
@@ -140,6 +109,18 @@
     },
     {
       "ticker": "GRMN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FMX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NUE",
       "failed": [
         "Radar"
       ]
