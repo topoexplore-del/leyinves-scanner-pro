@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-16 18:43:33 (Hora Colombia)",
+  "checked_at": "2026-11-16 23:29:09 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,17 +10,32 @@
     "drawdown_52w_pct": -5.02,
     "realized_vol_20d": 22.9
   },
-  "confirmed": 0,
-  "signals": [],
-  "watchlist": [
+  "confirmed": 1,
+  "signals": [
     {
       "ticker": "EOG",
-      "failed": [
-        "Radar"
+      "composite": 100,
+      "prob": 95,
+      "buffett": 100,
+      "mos": -6.8,
+      "rs_rank": 87,
+      "zones": {
+        "entry": 157.01,
+        "tp1": 161.37,
+        "tp2": 165.73,
+        "sl": 150.47
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
       ]
-    },
+    }
+  ],
+  "watchlist": [
     {
-      "ticker": "APA",
+      "ticker": "DECK",
       "failed": [
         "Radar"
       ]
@@ -45,6 +60,18 @@
     },
     {
       "ticker": "NXPI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ACN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PODD",
       "failed": [
         "Radar"
       ]
@@ -86,21 +113,15 @@
       ]
     },
     {
-      "ticker": "GRMN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "FMX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "NUE",
+      "ticker": "ABNB",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     }
   ]
