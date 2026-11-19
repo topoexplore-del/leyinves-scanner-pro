@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-18 17:33:22 (Hora Colombia)",
+  "checked_at": "2026-11-18 22:07:08 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,59 +10,9 @@
     "drawdown_52w_pct": -6.28,
     "realized_vol_20d": 22.9
   },
-  "confirmed": 2,
-  "signals": [
-    {
-      "ticker": "CHE",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 55,
-      "mos": -67.8,
-      "rs_rank": 80,
-      "zones": {
-        "entry": 545.23,
-        "tp1": 559.31,
-        "tp2": 573.39,
-        "sl": 524.11
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "FAST",
-      "composite": 74,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -81.8,
-      "rs_rank": 87,
-      "zones": {
-        "entry": 54.73,
-        "tp1": 55.98,
-        "tp2": 57.23,
-        "sl": 52.85
-      },
-      "periods": [
-        "1 Mes"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
-    {
-      "ticker": "EOG",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "BWMX",
-      "failed": [
-        "Analysis"
-      ]
-    },
     {
       "ticker": "CF",
       "failed": [
@@ -70,12 +20,6 @@
       ]
     },
     {
-      "ticker": "COP",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
       "ticker": "NXPI",
       "failed": [
         "Radar"
@@ -83,18 +27,6 @@
     },
     {
       "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ACN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FHI",
       "failed": [
         "Radar"
       ]
@@ -124,19 +56,49 @@
       ]
     },
     {
-      "ticker": "WTS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "FMX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "MDLZ",
+      "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PGNY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "UNP",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "MET",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "PRI",
       "failed": [
         "Analysis"
       ]
