@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19 17:39:51 (Hora Colombia)",
+  "checked_at": "2026-11-19 21:53:14 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -10,31 +10,40 @@
     "drawdown_52w_pct": -8.11,
     "realized_vol_20d": 23.5
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "QLYS",
+      "composite": 79,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -74.6,
+      "rs_rank": 89,
+      "zones": {
+        "entry": 192.95,
+        "tp1": 207.25,
+        "tp2": 221.55,
+        "sl": 171.5
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    }
+  ],
   "watchlist": [
     {
-      "ticker": "CF",
+      "ticker": "FHI",
       "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
-      "ticker": "NXPI",
+      "ticker": "BBY",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TXN",
-      "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -56,7 +65,7 @@
       ]
     },
     {
-      "ticker": "FMX",
+      "ticker": "WTS",
       "failed": [
         "Radar"
       ]
@@ -68,13 +77,13 @@
       ]
     },
     {
-      "ticker": "MPWR",
+      "ticker": "PGNY",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "PGNY",
+      "ticker": "HWM",
       "failed": [
         "Radar"
       ]
@@ -86,19 +95,31 @@
       ]
     },
     {
-      "ticker": "MET",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "PRI",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "BOOT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "REGN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BF-B",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BMI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "RUSHA",
       "failed": [
         "Radar"
       ]
