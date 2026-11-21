@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20 17:13:16 (Hora Colombia)",
+  "checked_at": "2026-11-20 22:08:23 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -13,27 +13,32 @@
   "confirmed": 1,
   "signals": [
     {
-      "ticker": "QLYS",
+      "ticker": "CHE",
       "composite": 79,
       "prob": 95,
-      "buffett": 85,
-      "mos": -74.6,
-      "rs_rank": 89,
+      "buffett": 55,
+      "mos": -67.9,
+      "rs_rank": 83,
       "zones": {
-        "entry": 192.95,
-        "tp1": 207.25,
-        "tp2": 221.55,
-        "sl": 171.5
+        "entry": 547.18,
+        "tp1": 561.0,
+        "tp2": 574.82,
+        "sl": 526.45
       },
       "periods": [
-        "1 Semana",
+        "1 Mes",
         "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "6 Meses"
       ]
     }
   ],
   "watchlist": [
+    {
+      "ticker": "QNST",
+      "failed": [
+        "Analysis"
+      ]
+    },
     {
       "ticker": "POWL",
       "failed": [
@@ -41,25 +46,13 @@
       ]
     },
     {
-      "ticker": "FHI",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "BBY",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "TOST",
+      "ticker": "POWL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SEZL",
+      "ticker": "PDD",
       "failed": [
         "Radar"
       ]
@@ -71,31 +64,19 @@
       ]
     },
     {
-      "ticker": "WTS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "PGNY",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "HWM",
+      "ticker": "BOOT",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "UNP",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BOOT",
+      "ticker": "YMM",
       "failed": [
         "Radar"
       ]
@@ -107,9 +88,9 @@
       ]
     },
     {
-      "ticker": "BF-B",
+      "ticker": "ROKU",
       "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
@@ -119,9 +100,15 @@
       ]
     },
     {
-      "ticker": "RUSHA",
+      "ticker": "AIR",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "POWW",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
