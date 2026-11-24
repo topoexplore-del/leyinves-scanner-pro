@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20 22:08:23 (Hora Colombia)",
+  "checked_at": "2026-11-23 21:05:47 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -37,12 +37,6 @@
       "ticker": "QNST",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "POWL",
-      "failed": [
-        "Radar"
       ]
     },
     {
