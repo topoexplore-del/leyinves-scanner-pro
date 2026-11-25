@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24 18:51:17 (Hora Colombia)",
+  "checked_at": "2026-11-24 23:53:37 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -32,12 +32,6 @@
       ]
     },
     {
-      "ticker": "POWL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "PDD",
       "failed": [
         "Radar"
@@ -50,7 +44,7 @@
       ]
     },
     {
-      "ticker": "APH",
+      "ticker": "POWL",
       "failed": [
         "Radar"
       ]
@@ -80,12 +74,6 @@
       ]
     },
     {
-      "ticker": "PGNY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "SEIC",
       "failed": [
         "Radar"
@@ -99,6 +87,18 @@
     },
     {
       "ticker": "BOOT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "YMM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "REGN",
       "failed": [
         "Radar"
       ]
